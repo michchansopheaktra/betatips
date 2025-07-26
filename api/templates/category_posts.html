@@ -73,19 +73,7 @@
                                         {% if page_obj.has_next %}
 											<a class="page-link px-4 py-3 btn btn-outline-primary mx-2 rounded" href="?page={{ page_obj.next_page_number }}" aria-label="Pagination Arrow"> Next >></a>
                                         {% endif %}
-                                        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-                                        <script>
-                                            $(document).on('click', '.page-link', function (e) {
-                                                e.preventDefault();
-                                                const pageUrl = $(this).attr('href');
-                                                $.get(pageUrl, function (data) {
-                                                    const newPosts = $(data).find('#post-container').html();
-                                                    const newPagination = $(data).find('#pagination').html();
-                                                    $('#post-container').html(newPosts);
-                                                    $('#pagination').html(newPagination);
-                                                });
-                                            });
-                                        </script>
+                                        
 									</ul>
 								</nav>
 							</nav>
