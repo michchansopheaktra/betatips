@@ -8,10 +8,23 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>BetaTips.com</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-	<meta name="description" content="This is meta description">
-	<meta name="author" content="Themefisher">
+	<title>{% block title %}{{ meta_title|default:"BetaTips – Free Templates & Design Resources" }}{% endblock %}</title>
+	<meta name="description" content="{{ meta_description|default:'Discover free graphic templates, social media kits, text effects, mockups, and fonts on BetaTips.' }}">
+	<meta name="keywords" content="{{ meta_keywords|default:'free templates, graphic design, mockups, fonts, presets, social media, text effects' }}">
+	<link rel="canonical" href="{{ request.build_absolute_uri }}">
+	<meta name="robots" content="index, follow">
+
+	<meta property="og:title" content="{{ meta_title }}">
+	<meta property="og:description" content="{{ meta_description }}">
+	<meta property="og:url" content="{{ request.build_absolute_uri }}">
+	<meta property="og:image" content="{{ post.image.url|default:'https://betatips.com/static/default-og-image.png' }}">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{{ meta_title }}">
+	<meta name="twitter:description" content="{{ meta_description }}">
+	<meta name="twitter:image" content="{{ post.image.url|default:'https://betatips.com/static/default-og-image.png' }}">
+
+
 	<link rel="shortcut icon" href="{%static '/static/images/vicon.png'%}" type="image/x-icon">
 	<link rel="icon" href="{%static '/static/images/vicon.png'%}" type="image/x-icon">
 

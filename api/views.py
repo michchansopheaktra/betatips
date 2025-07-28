@@ -222,6 +222,9 @@ def post_detail(request, slug):
         "related_posts": related_posts,
         "categories": categories,
         "related_posts_side": related_posts_side,
+        'meta_title': post.title,
+        'meta_description': post.excerpt or post.content[:160],
+        'meta_keywords': ', '.join(tag.name for tag in post.tags.all()),
     })
 
 

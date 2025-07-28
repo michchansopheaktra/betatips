@@ -55,6 +55,8 @@ class Post(models.Model):
     slug = models.SlugField(unique=True, blank=True)
     content = RichTextField()
     created_at = models.DateTimeField(auto_now_add=True)
+    published = models.BooleanField(default=True)
+    updated_at = models.DateTimeField(auto_now=True)
     category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name="posts")
     views = models.PositiveIntegerField(default=0)
     tags = TaggableManager()

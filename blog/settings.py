@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'api',
     'taggit',
     'ckeditor',
+    'django.contrib.sitemaps',
 ]
 
 MIDDLEWARE = [

@@ -6,9 +6,22 @@ from django.conf.urls.static import static
 from django.views.static import serve
 from django.urls import re_path
 
+from django.contrib.sitemaps.views import sitemap
+from api.sitemaps import PostSitemap  # adjust to your app
+
+from django.conf import settings
+from django.conf.urls.static import static
+
+
+sitemaps = {
+    'posts': PostSitemap,
+}
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include("api.urls")),
+    path('sitemap.xml', sitemap, {'sitemaps': sitemaps}, name='sitemap'),
 
     # Serve media files manually when DEBUG = False
     re_path(r'^media/(?P<path>.*)$', serve, {
