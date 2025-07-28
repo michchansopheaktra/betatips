@@ -5,7 +5,6 @@ from django.contrib.auth import views as auth_views
 from django.urls import path
 from . import views
 
-
 urlpatterns = [
     path('', views.post_list, name='post_list'),
     path('category/<slug:slug>/', views.category_posts, name='category_posts'),
@@ -17,7 +16,8 @@ urlpatterns = [
     path('add-post/', views.post_create, name='post_create'),
     path('post/<slug:slug>/edit/', views.post_edit, name='post_edit'),
     path('post/<slug:slug>/delete/', views.post_delete, name='post_delete'),
-    path('tag/<slug:tag_slug>/', views.tagged_posts, name='tagged_posts'),
+    path('tag/<str:tag_slug>/', views.tagged_posts, name='tagged_posts'),
+    
 
     path('search/', views.post_search, name='post_search'),
 
@@ -30,7 +30,6 @@ urlpatterns = [
     path('contact/', views.contact_page, name='contact'),
     path('privacy/', views.privacy_page, name='privacy'),
     path('about/', views.about_page, name='about'),
-
    
 ]
 

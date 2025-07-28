@@ -71,6 +71,7 @@ class Post(models.Model):
     ads_4 = models.CharField(max_length=200, blank=True, null=True)
     ads_5 = models.CharField(max_length=200, blank=True, null=True)
     download = models.CharField(max_length=200, blank=True, null=True)
+    excerpt = models.TextField(blank=True, null=True)
 
 
 
@@ -84,3 +85,8 @@ class Post(models.Model):
 
     def get_absolute_url(self):
         return reverse("post_detail", kwargs={"slug": self.slug})
+
+    def excerpt(self):
+        return self.content[:150] + "..."
+
+ 
