@@ -89,4 +89,17 @@ class Post(models.Model):
     def excerpt(self):
         return self.content[:150] + "..."
 
- 
+
+class ZipUpload(models.Model):
+    zip_file = models.FileField(upload_to='zips/')
+    # extracted_path = models.CharField(max_length=255, blank=True, null=True)
+    uploaded_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return self.zip_file.name
+
+    def filename(self):
+        return self.file.name.split('/')[-1]
+
+    def size_mb(self):
+        return round(self.file.size / (1024 * 1024), 2)  # Size in MB

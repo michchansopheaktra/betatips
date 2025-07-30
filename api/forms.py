@@ -8,6 +8,8 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django.forms import ModelForm
 
+from .models import ZipUpload
+
 class UserForm(forms.ModelForm):
     class Meta:
         model = User
@@ -130,3 +132,10 @@ class RegisterForm(UserCreationForm):
             'class': 'form-control',
             'placeholder': 'Confirm password'
         })
+
+    # forms.py
+
+class ZipUploadForm(forms.ModelForm):
+    class Meta:
+        model = ZipUpload
+        fields = ['zip_file']
