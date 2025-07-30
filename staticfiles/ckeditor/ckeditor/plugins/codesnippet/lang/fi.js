@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","fi",{button:"Lisää koodileike",codeContents:"Koodisisältö",emptySnippetError:"Koodileike ei voi olla tyhjä.",language:"Kieli",title:"Koodileike",pathName:"koodileike"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0d3eaa66219a234bdf65318c70c5b224e3143d8f99f9fc5bb9420aeee38edb3
+size 362

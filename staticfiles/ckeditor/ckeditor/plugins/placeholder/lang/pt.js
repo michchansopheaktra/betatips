@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","pt",{title:"Propriedades dos marcadores",toolbar:"Símbolo",name:"Nome do marcador",invalidName:"O marcador não pode estar em branco e não pode conter qualquer dos seguintes carateres: [, ], <, >",pathName:"símbolo"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:be59dfc863561f5fa73c7a6bfd4d9ccb00c4f9432297591f6eeed55d087255f1
+size 409

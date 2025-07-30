@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","el",{title:"Διεπαφή Επιλογής Χρωμάτων",preview:"Ζωντανή Προεπισκόπηση",config:"Επικολλήστε αυτό το κείμενο στο αρχείο config.js",predefined:"Προκαθορισμένα σύνολα χρωμάτων"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee059c306cb57e9465eb1152cae0536b67f70de8e5da3ad8aed76a8d94874459
+size 463

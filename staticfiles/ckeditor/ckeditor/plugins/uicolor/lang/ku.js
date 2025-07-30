@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","ku",{title:"هەڵگری ڕەنگ بۆ ڕووکاری بەکارهێنەر",preview:"پێشبینین بە زیندوویی",config:"ئەم دەقانە بلکێنە بە پەڕگەی config.js-fil",predefined:"کۆمەڵە ڕەنگە دیاریکراوەکانی پێشوو"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2ffd9eece95a191f9f4be002bebdf7fa4d7ddd6eb2c4bd64031dadd9d475687
+size 462

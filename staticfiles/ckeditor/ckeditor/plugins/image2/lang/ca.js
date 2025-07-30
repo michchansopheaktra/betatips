@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ca",{alt:"Text alternatiu",btnUpload:"Envia-la al servidor",captioned:"Imatge amb subtítol",captionPlaceholder:"Títol",infoTab:"Informació de la imatge",lockRatio:"Bloqueja les proporcions",menu:"Propietats de la imatge",pathName:"imatge",pathNameCaption:"subtítol",resetSize:"Restaura la mida",resizer:"Clicar i arrossegar per redimensionar",title:"Propietats de la imatge",uploadTab:"Puja",urlMissing:"Falta la URL de la imatge."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:415faee5ad2243b7a282b7a93e878c40e1d397c2c21324dbe963f7c71cfdb40a
+size 476

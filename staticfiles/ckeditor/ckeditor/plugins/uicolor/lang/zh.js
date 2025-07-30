@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","zh",{title:"UI 色彩選擇器",preview:"即時預覽",config:"請將此段字串複製到您的 config.js 檔案中。",predefined:"設定預先定義的色彩"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3db3bb8c43a07a76afd4e81550b8034f7843b8f78a83f9a5caf914822d0afa87
+size 348

@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","hu",{btnIgnore:"Kihagyja",btnIgnoreAll:"Mindet kihagyja",btnReplace:"Csere",btnReplaceAll:"Összes cseréje",btnUndo:"Visszavonás",changeTo:"Módosítás",errorLoading:"Hiba a szolgáltatás host betöltése közben: %s.",ieSpellDownload:"A helyesírás-ellenőrző nincs telepítve. Szeretné letölteni most?",manyChanges:"Helyesírás-ellenőrzés kész: %1 szó cserélve",noChanges:"Helyesírás-ellenőrzés kész: Nincs változtatott szó",noMispell:"Helyesírás-ellenőrzés kész: Nem találtam hibát",
-noSuggestions:"Nincs javaslat",notAvailable:"Sajnálom, de a szolgáltatás jelenleg nem elérhető.",notInDic:"Nincs a szótárban",oneChange:"Helyesírás-ellenőrzés kész: Egy szó cserélve",progress:"Helyesírás-ellenőrzés folyamatban...",title:"Helyesírás ellenörző",toolbar:"Helyesírás-ellenőrzés"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec1ad169874157c1caf8d7f3bde0eb1df49fb08d0fe057ba2187ab4195cfa7d
+size 870

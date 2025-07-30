@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","si",{title:"වර්ණ ",preview:"සජීව නැවත නරභීම",config:"මෙම අක්ෂර පේලිය ගෙන config.js ලිපිගොනුව මතින් තබන්න",predefined:"කලින් වෙන්කරගත් පරිදි ඇති වර්ණ"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70c9b3e680c2bb5a16151d1056c39a380c69ad9d02040555c8b2cb8b50929a4
+size 492

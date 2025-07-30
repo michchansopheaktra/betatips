@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","nl",{pathName:"media object",title:"Mediareferentie",button:"Mediareferentie invoegen",unsupportedUrlGiven:"De opgegeven URL wordt niet ondersteund.",unsupportedUrl:"De URL {url} wordt niet ondersteund door Mediareferentie.",fetchingFailedGiven:"Kon de inhoud van de opgegeven URL niet ophalen",fetchingFailed:"Kon de inhoud van {url} niet ophalen.",fetchingOne:"Ophalen van oEmbed antwoord…",fetchingMany:"Ophalen van oEmbed antwoorden, {current} van {max} klaar…"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf37b9435643ce971d1f95f358b528d9b14c5342a258b2b900fc347f6b02ac2
+size 513

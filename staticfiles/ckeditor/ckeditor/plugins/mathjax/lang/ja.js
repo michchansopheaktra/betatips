@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","ja",{title:"TeX形式の数式",button:"数式",dialogInput:"TeX形式の数式を入力してください",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"TeXの解説",loading:"読み込み中…",pathName:"math"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c829392b5684a6f1560640c4ab81cbbd780acbbfb65ae32c5b0a0854ce502a9
+size 274

@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","no",{title:"Matematikk i TeX",button:"Matte",dialogInput:"Skriv TeX-koden her",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"TeX-dokumentasjon",loading:"laster...",pathName:"matte"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:085d725f12d424eddfefe5f5d9b66ea1da547254a5d6ff303accd214d884dc84
+size 242

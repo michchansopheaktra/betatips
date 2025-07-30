@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","fr",{btnIgnore:"Ignorer",btnIgnoreAll:"Ignorer tout",btnReplace:"Remplacer",btnReplaceAll:"Remplacer tout",btnUndo:"Annuler",changeTo:"Modifier pour",errorLoading:"Erreur du chargement du service depuis l'hôte : %s.",ieSpellDownload:"La vérification d'orthographe n'est pas installée. Voulez-vous la télécharger maintenant?",manyChanges:"Vérification de l'orthographe terminée : %1 mots corrigés.",noChanges:"Vérification de l'orthographe terminée : Aucun mot corrigé.",
-noMispell:"Vérification de l'orthographe terminée : aucune erreur trouvée.",noSuggestions:"- Aucune suggestion -",notAvailable:"Désolé, le service est indisponible actuellement.",notInDic:"N'existe pas dans le dictionnaire.",oneChange:"Vérification de l'orthographe terminée : Un seul mot corrigé.",progress:"Vérification de l'orthographe en cours...",title:"Vérifier l'orthographe",toolbar:"Vérifier l'orthographe"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7c92224cb0b52b4ee5964c0207a3bad9eb7575909eca862b8220db8a0b2f28
+size 946

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","bg",{title:"ПИ избор на цвят",preview:"Преглед",config:"Вмъкнете този низ във Вашия config.js fajl",predefined:"Предефинирани цветови палитри"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8809d4e71333efdf58d9cbed8796a1ba200b89aafb5a9bd0bd7bbe2655025e3
+size 399

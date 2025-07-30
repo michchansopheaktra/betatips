@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","tr",{title:"Yer tutucu özellikleri",toolbar:"Yer tutucu oluşturun",name:"Yer Tutucu Adı",invalidName:"Yer tutucu adı boş bırakılamaz ve şu karakterleri içeremez: [, ], <, >",pathName:"yertutucu"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bfa1a076a2e2a6f1eacd703933328b7d7215f73df2e46b096c349cf8f0a528d
+size 394

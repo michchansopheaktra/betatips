@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","cs",{title:"Vlastnosti vyhrazeného prostoru",toolbar:"Vytvořit vyhrazený prostor",name:"Název vyhrazeného prostoru",invalidName:"Vyhrazený prostor nesmí být prázdný či obsahovat následující znaky: [, ], <, >",pathName:"Vyhrazený prostor"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab0b1628d9ed81558d98676848056df3c25dac9772e4e4bf7a25f5091ad2b91
+size 443

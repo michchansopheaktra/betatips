@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","it",{alt:"Testo alternativo",btnUpload:"Invia al server",captioned:"Immagine con didascalia",captionPlaceholder:"Didascalia",infoTab:"Informazioni immagine",lockRatio:"Blocca rapporto",menu:"Proprietà immagine",pathName:"immagine",pathNameCaption:"didascalia",resetSize:"Reimposta dimensione",resizer:"Fare clic e trascinare per ridimensionare",title:"Proprietà immagine",uploadTab:"Carica",urlMissing:"Manca l'URL dell'immagine."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf67b9762d265de875ba56fb68dd91aaefe1a92eb567bcda80da7aeecfacc48
+size 473

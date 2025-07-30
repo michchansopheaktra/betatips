@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","en",{btnIgnore:"Ignore",btnIgnoreAll:"Ignore All",btnReplace:"Replace",btnReplaceAll:"Replace All",btnUndo:"Undo",changeTo:"Change to",errorLoading:"Error loading application service host: %s.",ieSpellDownload:"Spell checker not installed. Do you want to download it now?",manyChanges:"Spell check complete: %1 words changed",noChanges:"Spell check complete: No words changed",noMispell:"Spell check complete: No misspellings found",noSuggestions:"- No suggestions -",notAvailable:"Sorry, but service is unavailable now.",
-notInDic:"Not in dictionary",oneChange:"Spell check complete: One word changed",progress:"Spell check in progress...",title:"Spell Checker",toolbar:"Check Spelling"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b230f1b71d21cee6722215383f3af5875998a9a18aa55c15d5f34d0fd06514
+size 725

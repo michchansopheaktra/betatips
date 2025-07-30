@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","sq",{alt:"Tekst Alternativ",btnUpload:"Dërgo në server",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Informacione mbi Fotografinë",lockRatio:"Mbyll Racionin",menu:"Karakteristikat e Fotografisë",pathName:"foto",pathNameCaption:"caption",resetSize:"Rikthe Madhësinë",resizer:"Click and drag to resize",title:"Karakteristikat e Fotografisë",uploadTab:"Ngarko",urlMissing:"Mungon URL e burimit të fotografisë."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:75e1aae9b9326027f0043e10e5874b52cc6166351f3c8db6f2a5dc57e3e777bd
+size 478

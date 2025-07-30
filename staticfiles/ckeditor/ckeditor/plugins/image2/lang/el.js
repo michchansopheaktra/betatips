@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","el",{alt:"Εναλλακτικό Κείμενο",btnUpload:"Αποστολή στον Διακομιστή",captioned:"Εικόνα με λεζάντα",captionPlaceholder:"Λεζάντα",infoTab:"Πληροφορίες Εικόνας",lockRatio:"Κλείδωμα Αναλογίας",menu:"Ιδιότητες Εικόνας",pathName:"εικόνα",pathNameCaption:"λεζάντα",resetSize:"Επαναφορά Αρχικού Μεγέθους",resizer:"Κάνετε κλικ και σύρετε το ποντίκι για να αλλάξετε το μέγεθος",title:"Ιδιότητες Εικόνας",uploadTab:"Αποστολή",urlMissing:"Λείπει το πηγαίο URL της εικόνας."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a8c93ebe6bc4c31bc57d6f75256a6ef2cc51e54b3e767b79b47e53227dfd2c2
+size 749

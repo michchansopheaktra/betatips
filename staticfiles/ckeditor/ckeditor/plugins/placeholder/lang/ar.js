@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ar",{title:"خصائص الربط الموضعي",toolbar:"الربط الموضعي",name:"اسم الربط الموضعي",invalidName:"لا يمكن ترك الربط الموضعي فارغا و لا أن يحتوي على الرموز التالية  [, ], <, >",pathName:"الربط الموضعي"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2909e4dcc66dc46576f7556b9d1a13ef0296b47c9db8b58cec0d82cce55938
+size 496

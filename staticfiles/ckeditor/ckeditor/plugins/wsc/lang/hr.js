@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","hr",{btnIgnore:"Zanemari",btnIgnoreAll:"Zanemari sve",btnReplace:"Zamijeni",btnReplaceAll:"Zamijeni sve",btnUndo:"Vrati",changeTo:"Promijeni u",errorLoading:"Greška učitavanja aplikacije: %s.",ieSpellDownload:"Provjera pravopisa nije instalirana. Želite li skinuti provjeru pravopisa?",manyChanges:"Provjera završena: Promijenjeno %1 riječi",noChanges:"Provjera završena: Nije napravljena promjena",noMispell:"Provjera završena: Nema grešaka",noSuggestions:"-Nema preporuke-",
-notAvailable:"Žao nam je, ali usluga trenutno nije dostupna.",notInDic:"Nije u rječniku",oneChange:"Provjera završena: Jedna riječ promjenjena",progress:"Provjera u tijeku...",title:"Provjera pravopisa",toolbar:"Provjeri pravopis"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:2551a764d6682018712a77b7ee6dbf6cbba595ea2ee81ded5b2bafbe9f7a9994
+size 757

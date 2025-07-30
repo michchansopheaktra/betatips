@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","fr",{title:"Mathématiques au format TeX",button:"Math",dialogInput:"Saisir la formule TeX ici",docUrl:"http://fr.wikibooks.org/wiki/LaTeX/Math%C3%A9matiques",docLabel:"Documentation du format TeX",loading:"chargement...",pathName:"math"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8138f9fee92c41833624334bddc7ae28ea55df4ed13b4ebd590d7d926eaa7ce0
+size 279

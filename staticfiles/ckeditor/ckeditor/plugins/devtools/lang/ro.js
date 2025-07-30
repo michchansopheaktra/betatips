@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","ro",{title:"Informația elementului",dialogName:"Numele ferestrei de dialog",tabName:"Denumire de tab",elementId:"ID Element",elementType:"Tipul elementului"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0e7a95b0f305b2603a2e2c289c29602976d585d3cacfa20f77ee14f474ecc6
+size 345

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","eo",{title:"Atributoj de la rezervita spaco",toolbar:"Rezervita Spaco",name:"Nomo de la rezervita spaco",invalidName:"La rezervita spaco ne povas esti malplena kaj ne povas enteni la sekvajn signojn : [, ], <, >",pathName:"rezervita spaco"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:23ac5d9e2b8b488062f5789cdbf7914b463432badbaa363b8fc7fd8f21a3dd55
+size 430

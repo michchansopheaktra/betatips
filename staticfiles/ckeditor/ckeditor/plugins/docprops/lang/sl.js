@@ -1,3 +1,3 @@
-﻿CKEDITOR.plugins.setLang("docprops","sl",{bgColor:"Barva ozadja",bgFixed:"Nepremično ozadje",bgImage:"URL slike za ozadje",charset:"Kodna tabela",charsetASCII:"ASCII",charsetCE:"Srednjeevropsko",charsetCR:"Cirilica",charsetCT:"Tradicionalno Kitajsko (Big5)",charsetGR:"Grško",charsetJP:"Japonsko",charsetKR:"Korejsko",charsetOther:"Druga kodna tabela",charsetTR:"Turško",charsetUN:"Unicode (UTF-8)",charsetWE:"Zahodnoevropsko",chooseColor:"Izberi",design:"Oblika",docTitle:"Naslov strani",docType:"Glava tipa dokumenta",
-docTypeOther:"Druga glava tipa dokumenta",label:"Lastnosti dokumenta",margin:"Zamiki strani",marginBottom:"Spodaj",marginLeft:"Levo",marginRight:"Desno",marginTop:"Na vrhu",meta:"Meta podatki",metaAuthor:"Avtor",metaCopyright:"Avtorske pravice",metaDescription:"Opis strani",metaKeywords:"Ključne besede (ločene z vejicami)",other:"<drug>",previewHtml:'<p>Tole je<strong>primer besedila</strong>. Uporabljate <a href="javascript:void(0)">CKEditor</a>.</p>',title:"Lastnosti dokumenta",txtColor:"Barva besedila",
-xhtmlDec:"Vstavi XHTML deklaracije"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7aa11d08262dd87d76bdf5991cb40c70aaeb7c7f809da971748261539552b23
+size 1079

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("language","el",{button:"Θέση γλώσσας",remove:"Αφαίρεση γλώσσας"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:17635b72a37a5b2a54c914573faaafcfb9dd04614114664d9108e339013345b3
+size 266

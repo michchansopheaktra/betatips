@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","fa",{btnIgnore:"چشمپوشی",btnIgnoreAll:"چشمپوشی همه",btnReplace:"جایگزینی",btnReplaceAll:"جایگزینی همه",btnUndo:"واچینش",changeTo:"تغییر به",errorLoading:"خطا در بارگیری برنامه خدمات میزبان: %s.",ieSpellDownload:"بررسی کنندهٴ املا نصب نشده است. آیا میخواهید آن را هماکنون دریافت کنید؟",manyChanges:"بررسی املا انجام شد. %1 واژه تغییر یافت",noChanges:"بررسی املا انجام شد. هیچ واژهای تغییر نیافت",noMispell:"بررسی املا انجام شد. هیچ غلط املائی یافت نشد",noSuggestions:"- پیشنهادی نیست -",
-notAvailable:"با عرض پوزش خدمات الان در دسترس نیستند.",notInDic:"در واژه~نامه یافت نشد",oneChange:"بررسی املا انجام شد. یک واژه تغییر یافت",progress:"بررسی املا در حال انجام...",title:"بررسی املا",toolbar:"بررسی املا"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff31b6b8bafbf3f0d1c99d8a284b25e4a73cd8f8f5f669853e15c83e695e8ae1
+size 1105

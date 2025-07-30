@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ug",{title:"ئورۇن بەلگە خاسلىقى",toolbar:"ئورۇن بەلگە قۇر",name:"Placeholder Name",invalidName:"The placeholder can not be empty and can not contain any of following characters: [, ], <, >",pathName:"placeholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67837bcdd7104e64ba571c03ae32dad687b779000b34fb0234d496004ca840b
+size 433

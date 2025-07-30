@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","cy",{title:"Priodweddau'r Daliwr Geiriau",toolbar:"Daliwr Geiriau",name:"Enw'r Daliwr Geiriau",invalidName:"Dyw'r daliwr geiriau methu â bod yn wag ac na all gynnyws y nodau [, ], <, > ",pathName:"daliwr geiriau"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d11b32db94f9d38698f9e5384cb4294aef899cc26cd5f26ba65ea6996f06dace
+size 404

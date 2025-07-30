@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","lt",{btnIgnore:"Ignoruoti",btnIgnoreAll:"Ignoruoti visus",btnReplace:"Pakeisti",btnReplaceAll:"Pakeisti visus",btnUndo:"Atšaukti",changeTo:"Pakeisti į",errorLoading:"Klaida įkraunant servisą: %s.",ieSpellDownload:"Rašybos tikrinimas neinstaliuotas. Ar Jūs norite jį dabar atsisiųsti?",manyChanges:"Rašybos tikrinimas baigtas: Pakeista %1 žodžių",noChanges:"Rašybos tikrinimas baigtas: Nėra pakeistų žodžių",noMispell:"Rašybos tikrinimas baigtas: Nerasta rašybos klaidų",
-noSuggestions:"- Nėra pasiūlymų -",notAvailable:"Atleiskite, šiuo metu servisas neprieinamas.",notInDic:"Žodyne nerastas",oneChange:"Rašybos tikrinimas baigtas: Vienas žodis pakeistas",progress:"Vyksta rašybos tikrinimas...",title:"Tikrinti klaidas",toolbar:"Rašybos tikrinimas"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dac200a0b4891155f800e1bca8bf5b419562771fe230e3ff2c4398ba1e29036
+size 817

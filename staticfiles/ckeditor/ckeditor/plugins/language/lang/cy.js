@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("language","cy",{button:"Gosod iaith",remove:"Tynnu iaith"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc5da232ed35b5a09e8bd80bb808e7148b224baf4332a5669a219ad710178f4
+size 234

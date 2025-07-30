@@ -1,18 +1,3 @@
-
-<div id="editor">
-	<p>This editor is read-only.</p>
-</div>
-
-<button id="toggle">Toggle read-only mode</button>
-
-<script>
-	exportPdfUtils.initManualTest();
-
-	var editor = CKEDITOR.replace( 'editor', exportPdfUtils.getDefaultConfig( 'manual', {
-		readOnly: true
-	} ) );
-
-	CKEDITOR.document.getById( 'toggle' ).on( 'click', function() {
-		editor.setReadOnly( !editor.readOnly );
-	} );
-</script>
+version https://git-lfs.github.com/spec/v1
+oid sha256:c34ab0171930afe31024db55cbaca2e8f5441f8a628d1898f1fd5a7d90dbb18a
+size 411

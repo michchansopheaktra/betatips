@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","hi",{alt:"वैकल्पिक टेक्स्ट",btnUpload:"इसे सर्वर को भेजें",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"तस्वीर की जानकारी",lockRatio:"लॉक अनुपात",menu:"तस्वीर प्रॉपर्टीज़",pathName:"image",pathNameCaption:"caption",resetSize:"रीसॅट साइज़",resizer:"Click and drag to resize",title:"तस्वीर प्रॉपर्टीज़",uploadTab:"अपलोड",urlMissing:"Image source URL is missing."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:26239c32fcddfc75789d1c4feabc7597d66c07141a38cd040e912c8deb3555f9
+size 619

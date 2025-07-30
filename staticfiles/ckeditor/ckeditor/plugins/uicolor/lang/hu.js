@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","hu",{title:"UI Színválasztó",preview:"Élő előnézet",config:"Illessze be ezt a szöveget a config.js fájlba",predefined:"Előre definiált színbeállítások"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:1156ae8d349018e3e3cd4ee9e4ec3a5d1fd5cba4012ac7c38e289c9e453639af
+size 353

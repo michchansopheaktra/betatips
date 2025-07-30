@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","sl",{button:"Vstavi odsek kode",codeContents:"Koda vsebina",emptySnippetError:"Odrezek kode ne more biti prazen.",language:"Jezik",title:"Odrezek kode",pathName:"odrezek kode"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5d36fcb45e98f8988c79fda0db00d5c1f52a2f9777354012884b1de07bde88
+size 366

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","el",{button:"Εισαγωγή Αποσπάσματος Κώδικα",codeContents:"Περιεχόμενο κώδικα",emptySnippetError:"Δεν γίνεται να είναι κενά τα αποσπάσματα κώδικα.",language:"Γλώσσα",title:"Απόσπασμα κώδικα",pathName:"απόσπασμα κώδικα"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:962db190e98ad9241d73a6d0f49fdf4ca75de414cd48a20307c26e40f4c2b72c
+size 526

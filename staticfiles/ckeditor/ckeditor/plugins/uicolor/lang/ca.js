@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","ca",{title:"UI Color Picker",preview:"Vista prèvia",config:"Enganxa aquest text dins el fitxer config.js",predefined:"Conjunts de colors predefinits"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c68063fdac1ebf140a558622f4042eeb05e92988aa57c7812477133fcafffa2a
+size 337

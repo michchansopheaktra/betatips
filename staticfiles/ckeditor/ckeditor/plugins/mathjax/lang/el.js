@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","el",{title:"Μαθηματικά με τη γλώσσα TeX",button:"Μαθηματικά",dialogInput:"Γράψτε κώδικα TeX εδώ",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"Τεκμηρίωση TeX",loading:"γίνεται φόρτωση...",pathName:"μαθηματικά"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d20b639c74faa8dc47ff985067d07a21271bb72417de03e41be7d33f58d8519
+size 350

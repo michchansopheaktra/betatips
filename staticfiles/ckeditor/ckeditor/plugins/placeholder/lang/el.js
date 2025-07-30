@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","el",{title:"Ιδιότητες Υποκαθιστόμενου Κειμένου",toolbar:"Δημιουργία Υποκαθιστόμενου Κειμένου",name:"Όνομα Υποκαθιστόμενου Κειμένου",invalidName:"Το υποκαθιστόμενου κειμένο πρέπει να μην είναι κενό και να μην έχει κανέναν από τους ακόλουθους χαρακτήρες: [, ], <, >",pathName:"υποκαθιστόμενο κείμενο"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:6005e8cf5661f0994285f21294fa685c884eb187fc3027a78768dd4384b00732
+size 693

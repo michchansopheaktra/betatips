@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","eu",{title:"Elementuaren Informazioa",dialogName:"Elkarrizketa leihoaren izena",tabName:"Fitxaren izena",elementId:"Elementuaren ID-a",elementType:"Elementu mota"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:225bf48f6d045640235369b041150079be51d102a6a61583030ad4d83281aca5
+size 350

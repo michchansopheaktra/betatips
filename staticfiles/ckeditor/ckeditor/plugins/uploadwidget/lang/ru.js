@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","ru",{abort:"Загрузка отменена пользователем",doneOne:"Файл успешно загружен",doneMany:"Успешно загружено файлов: %1",uploadOne:"Загрузка файла ({percentage}%)",uploadMany:"Загрузка файлов, {current} из {max} загружено ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:885eece2b6da5755f886f4c54f59312dba1bdd43b4d96a275b42b45d0ba555cf
+size 537

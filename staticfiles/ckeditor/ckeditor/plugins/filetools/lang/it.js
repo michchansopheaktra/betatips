@@ -1,6 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","it",{loadError:"Si è verificato un errore durante la lettura del file.",networkError:"Si è verificato un errore di rete durante il caricamento del file.",httpError404:"Si è verificato un errore HTTP durante il caricamento del file (404: file non trovato).",httpError403:"Si è verificato un errore HTTP durante il caricamento del file (403: accesso negato).",httpError:"Si è verificato un errore HTTP durante il caricamento del file (stato dell'errore: %1).",noUrlError:"L'URL per il caricamento non è stato definito.",
-responseError:"La risposta del server non è corretta."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc4ac4a2d8042d7cff1b087843aa9fe3493d9afa7583fe27bfeb9d2d6d2ea92
+size 769

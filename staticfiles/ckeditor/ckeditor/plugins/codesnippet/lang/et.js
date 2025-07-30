@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","et",{button:"Koodilõigu sisestamine",codeContents:"Code content",emptySnippetError:"A code snippet cannot be empty.",language:"Language",title:"Code snippet",pathName:"code snippet"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a265c35157ffc9852b523cf8ae0ca57f15ed61a6607254966a88ba248a7a699
+size 373

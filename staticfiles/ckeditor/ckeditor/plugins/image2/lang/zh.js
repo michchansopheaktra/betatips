@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","zh",{alt:"替代文字",btnUpload:"傳送至伺服器",captioned:"已加標題之圖片",captionPlaceholder:"標題",infoTab:"影像資訊",lockRatio:"固定比例",menu:"影像屬性",pathName:"圖片",pathNameCaption:"標題",resetSize:"重設大小",resizer:"拖曳以改變大小",title:"影像屬性",uploadTab:"上傳",urlMissing:"遺失圖片來源之 URL "});
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b18e6ea23bb7e8e3b8f11fedd1b22a41a2f368988f870af7761bcd0eaa74d55
+size 405

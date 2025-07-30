@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","lv",{title:"UI krāsas izvēle",preview:"Priekšskatījums",config:"Ielīmējiet šo rindu jūsu config.js failā",predefined:"Predefinēti krāsu komplekti"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c725e6b303ffdfe45cd6b36a720095b12b39fc89d34a2a4535a350e5f845da5c
+size 344

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","pl",{abort:"Wysyłanie przerwane przez użytkownika.",doneOne:"Plik został pomyślnie wysłany.",doneMany:"Pomyślnie wysłane pliki: %1.",uploadOne:"Wysyłanie pliku ({percentage}%)...",uploadMany:"Wysyłanie plików, gotowe {current} z {max} ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3c56e9acb93beced9a9ca5c0722dbbf9809e2df88e37803b468b580d734424a
+size 456

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","fi",{title:"Paikkamerkin ominaisuudet",toolbar:"Luo paikkamerkki",name:"Paikkamerkin nimi",invalidName:"Paikkamerkki ei voi olla tyhjä eikä sisältää seuraavia merkkejä: [, ], <, >",pathName:"paikkamerkki"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7dfcc1fbecdeb00778576883646d872597bb92657101891fe7525b90ff664f
+size 401

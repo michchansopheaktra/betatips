@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","tt",{alt:"Альтернатив текст",btnUpload:"Серверга җибәрү",captioned:"Исеме куелган рәсем",captionPlaceholder:"Исем",infoTab:"Рәсем тасвирламасы",lockRatio:"Lock Ratio",menu:"Рәсем үзлекләре",pathName:"рәсем",pathNameCaption:"исем",resetSize:"Баштагы зурлык",resizer:"Күчереп куер өчен басып шудырыгыз",title:"Рәсем үзлекләре",uploadTab:"Йөкләү",urlMissing:"Image source URL is missing."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7a5a006bcb5b244ebb1c41a32a3904a2700d5439c448b339fa30cb5820e3b25
+size 579

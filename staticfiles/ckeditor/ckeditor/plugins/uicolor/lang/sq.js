@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","sq",{title:"UI Mbledhës i Ngjyrave",preview:"Parapamje direkte",config:"Hidhni këtë varg në skedën tuaj config.js",predefined:"Setet e paradefinuara të ngjyrave"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfd7155a10e0a7c2fc9dfe106fd7aefd588d1720a0e16e77e976285e28365901
+size 354

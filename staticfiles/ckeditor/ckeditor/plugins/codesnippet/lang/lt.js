@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","lt",{button:"Įterpkite kodo gabaliuką",codeContents:"Kodo turinys",emptySnippetError:"Kodo fragmentas negali būti tusčias.",language:"Kalba",title:"Kodo fragmentas",pathName:"kodo fragmentas"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a2cf618bc8063d124df35b00633f8cddc1894b5e94551700ed814816e58e30
+size 386

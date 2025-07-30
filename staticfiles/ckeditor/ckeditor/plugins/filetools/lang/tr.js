@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","tr",{loadError:"Dosya okunurken hata oluştu.",networkError:"Dosya gönderilirken ağ hatası oluştu.",httpError404:"Dosya gönderilirken HTTP hatası oluştu (404: Dosya bulunamadı).",httpError403:"Dosya gönderilirken HTTP hatası oluştu (403: Yasaklı).",httpError:"Dosya gönderilirken HTTP hatası oluştu (hata durumu: %1).",noUrlError:"Gönderilecek URL belirtilmedi.",responseError:"Sunucu cevap veremedi."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c1b9aa81931d149a6060263e5d65781c3c4a868e6e32c0a23061978d86c8ef
+size 606

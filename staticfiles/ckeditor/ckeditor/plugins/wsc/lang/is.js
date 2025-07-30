@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","is",{btnIgnore:"Hunsa",btnIgnoreAll:"Hunsa allt",btnReplace:"Skipta",btnReplaceAll:"Skipta öllu",btnUndo:"Til baka",changeTo:"Tillaga",errorLoading:"Error loading application service host: %s.",ieSpellDownload:"Villuleit ekki sett upp.\x3cbr\x3eViltu setja hana upp?",manyChanges:"Villuleit lokið: %1 orðum breytt",noChanges:"Villuleit lokið: Engu orði breytt",noMispell:"Villuleit lokið: Engin villa fannst",noSuggestions:"- engar tillögur -",notAvailable:"Sorry, but service is unavailable now.",
-notInDic:"Ekki í orðabókinni",oneChange:"Villuleit lokið: Einu orði breytt",progress:"Villuleit í gangi...",title:"Spell Checker",toolbar:"Villuleit"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6cc42ead85f25d8a19313c1d9d7701ce3363beb13fc77abb919fd1c21090cf7
+size 699

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","ko",{button:"코드 스니펫 삽입",codeContents:"코드 본문",emptySnippetError:"코드 스니펫은 빈칸일 수 없습니다.",language:"언어",title:"코드 스니펫",pathName:"코드 스니펫"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a551ccf1597103aacba0d6ffb0121b19b5c5d3276d022a122758335c1401e49c
+size 396

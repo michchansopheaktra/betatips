@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","sq",{title:"Matematikë në TeX",button:"Matematikë",dialogInput:"Shkruani TeX-in tuaj këtu",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"Tex dokumentimi",loading:"duke u hapur...",pathName:"matematikë"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f5604eb4805609cda1f269a0eddde6d625e8b8456703f977c65479146d4f46
+size 268

@@ -1,6 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","de",{loadError:"Während dem Lesen der Datei ist ein Fehler aufgetreten.",networkError:"Während dem Hochladen der Datei ist ein Netzwerkfehler aufgetreten.",httpError404:"Während dem Hochladen der Datei ist ein HTTP-Fehler aufgetreten (404: Datei nicht gefunden).",httpError403:"Während dem Hochladen der Datei ist ein HTTP-Fehler aufgetreten (403: Verboten).",httpError:"Während dem Hochladen der Datei ist ein HTTP-Fehler aufgetreten (Fehlerstatus: %1).",noUrlError:"Hochlade-URL ist nicht definiert.",
-responseError:"Falsche Antwort des Servers."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a68ce7f0ec49805fe57136a154a0536cc2eef288e19df49db81879e09716b54e
+size 742

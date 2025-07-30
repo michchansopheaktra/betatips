@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","et",{title:"Kohahoidja omadused",toolbar:"Kohahoidja loomine",name:"Placeholder Name",invalidName:"The placeholder can not be empty and can not contain any of following characters: [, ], <, >",pathName:"placeholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:992b3ce9f90b97f2dedf13d56677ce4ff46f6bf012fb5c3a129fc256a7de4dde
+size 406

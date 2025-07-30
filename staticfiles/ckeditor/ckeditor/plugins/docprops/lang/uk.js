@@ -1,3 +1,3 @@
-﻿CKEDITOR.plugins.setLang("docprops","uk",{bgColor:"Колір тла",bgFixed:"Тло без прокрутки",bgImage:"URL зображення тла",charset:"Кодування набору символів",charsetASCII:"ASCII",charsetCE:"Центрально-європейська",charsetCR:"Кирилиця",charsetCT:"Китайська традиційна (Big5)",charsetGR:"Грецька",charsetJP:"Японська",charsetKR:"Корейська",charsetOther:"Інше кодування набору символів",charsetTR:"Турецька",charsetUN:"Юнікод (UTF-8)",charsetWE:"Західно-европейская",chooseColor:"Обрати",design:"Дизайн",docTitle:"Заголовок сторінки",
-docType:"Заголовок типу документу",docTypeOther:"Інший заголовок типу документу",label:"Властивості документа",margin:"Відступи сторінки",marginBottom:"Нижній",marginLeft:"Лівий",marginRight:"Правий",marginTop:"Верхній",meta:"Мета дані",metaAuthor:"Автор",metaCopyright:"Авторські права",metaDescription:"Опис документа",metaKeywords:"Ключові слова документа (розділені комами)",other:"<інший>",previewHtml:'<p>Це приклад<strong>тексту</strong>. Ви використовуєте<a href="javascript:void(0)"> CKEditor </a>.</p>',
-title:"Властивості документа",txtColor:"Колір тексту",xhtmlDec:"Ввімкнути XHTML оголошення"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:72af939f0adcfcc26c1e3e742c1da483650a7d062e0cce0aefa642279f92d86e
+size 1630

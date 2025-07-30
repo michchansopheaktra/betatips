@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","ca",{btnIgnore:"Ignora",btnIgnoreAll:"Ignora-les totes",btnReplace:"Canvia",btnReplaceAll:"Canvia-les totes",btnUndo:"Desfés",changeTo:"Reemplaça amb",errorLoading:"Error carregant el servidor: %s.",ieSpellDownload:"Verificació ortogràfica no instal·lada. Voleu descarregar-ho ara?",manyChanges:"Verificació ortogràfica: s'han canviat %1 paraules",noChanges:"Verificació ortogràfica: no s'ha canviat cap paraula",noMispell:"Verificació ortogràfica acabada: no hi ha cap paraula mal escrita",
-noSuggestions:"Cap suggeriment",notAvailable:"El servei no es troba disponible ara.",notInDic:"No és al diccionari",oneChange:"Verificació ortogràfica: s'ha canviat una paraula",progress:"Verificació ortogràfica en curs...",title:"Comprova l'ortografia",toolbar:"Revisa l'ortografia"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2e7b95d37d221bf72c27c9ad499afbe1fd32b404c45065ab8a769d6182cb889
+size 829

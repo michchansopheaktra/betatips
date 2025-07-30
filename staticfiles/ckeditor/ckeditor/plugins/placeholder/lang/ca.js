@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ca",{title:"Propietats del marcador de posició",toolbar:"Marcador de posició",name:"Nom del marcador de posició",invalidName:"El marcador de posició no pot estar en blanc ni pot contenir cap dels caràcters següents: [,],<,>",pathName:"marcador de posició"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:25ec4ba4411118e12b1cced8fad4802bad8d4ef9665f9c5d3760a710604f0a8f
+size 453

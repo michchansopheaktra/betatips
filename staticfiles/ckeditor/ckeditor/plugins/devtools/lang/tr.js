@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","tr",{title:"Eleman Bilgisi",dialogName:"İletişim pencere ismi",tabName:"Sekme adı",elementId:"Eleman ID",elementType:"Eleman türü"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56441a7003cf53c8657575058ab36b4f846a5707f1561aa84f6852624c0de8d
+size 323

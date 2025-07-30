@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","ca",{title:"Informació de l'element",dialogName:"Nom de la finestra de quadre de diàleg",tabName:"Nom de la pestanya",elementId:"ID de l'element",elementType:"Tipus d'element"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f780217da5f3ec3544245533c0fce671750da17ab950e32a1eac515de7c9167
+size 365

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","ku",{loadError:"هەڵەیەک ڕوویدا لە ماوەی خوێندنەوەی پەڕگەکە.",networkError:"هەڵەیەکی ڕایەڵە ڕوویدا لە ماوەی بارکردنی پەڕگەکە.",httpError404:"هەڵەیەک ڕوویدا لە ماوەی بارکردنی پەڕگەکە (404: پەڕگەکە نەدۆزراوە).",httpError403:"هەڵەیەک ڕوویدا لە ماوەی بارکردنی پەڕگەکە  (403: قەدەغەکراو).",httpError:"هەڵەیەک ڕوویدا لە ماوەی بارکردنی پەڕگەکە (دۆخی هەڵە: %1).",noUrlError:"بەستەری پەڕگەکە پێناسە نەکراوە.",responseError:"وەڵامێکی نادروستی سێرڤەر."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3405b8d266eeda27fe5ced10f7361d568d997686d169340edef1f9e9b5bcb01
+size 896

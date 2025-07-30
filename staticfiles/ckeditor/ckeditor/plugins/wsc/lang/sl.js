@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","sl",{btnIgnore:"Prezri",btnIgnoreAll:"Prezri vse",btnReplace:"Zamenjaj",btnReplaceAll:"Zamenjaj vse",btnUndo:"Razveljavi",changeTo:"Spremeni v",errorLoading:"Napaka pri nalaganju storitve programa na naslovu %s.",ieSpellDownload:"Črkovalnik ni nameščen. Ali ga želite prenesti sedaj?",manyChanges:"Črkovanje je končano: Spremenjenih je bilo %1 besed",noChanges:"Črkovanje je končano: Nobena beseda ni bila spremenjena",noMispell:"Črkovanje je končano: Brez napak",noSuggestions:"- Ni predlogov -",
-notAvailable:"Oprostite, storitev trenutno ni dosegljiva.",notInDic:"Ni v slovarju",oneChange:"Črkovanje je končano: Spremenjena je bila ena beseda",progress:"Preverjanje črkovanja se izvaja...",title:"Črkovalnik",toolbar:"Preveri črkovanje"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0f1379584b98cd7bf8e551d4071e77226e1ba6836d4982b031458f1ec4b09b
+size 792

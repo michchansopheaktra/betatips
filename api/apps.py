@@ -1,9 +1,3 @@
-from django.apps import AppConfig
-
-
-class ApiConfig(AppConfig):
-    default_auto_field = 'django.db.models.BigAutoField'
-    name = 'api'
-
-def ready(self):
-    import blog.signals  # if app name is blog
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d26c35aae8121223fbef60dc647cf22d8b521bb1000a447be8a34dbd50c539
+size 203

@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","el",{btnIgnore:"Αγνόηση",btnIgnoreAll:"Αγνόηση όλων",btnReplace:"Αντικατάσταση",btnReplaceAll:"Αντικατάσταση όλων",btnUndo:"Αναίρεση",changeTo:"Αλλαγή σε",errorLoading:"Error loading application service host: %s.",ieSpellDownload:"Δεν υπάρχει εγκατεστημένος ορθογράφος. Θέλετε να τον κατεβάσετε τώρα;",manyChanges:"Ο ορθογραφικός έλεγχος ολοκληρώθηκε: Άλλαξαν %1 λέξεις",noChanges:"Ο ορθογραφικός έλεγχος ολοκληρώθηκε: Δεν άλλαξαν λέξεις",noMispell:"Ο ορθογραφικός έλεγχος ολοκληρώθηκε: Δεν βρέθηκαν λάθη",
-noSuggestions:"- Δεν υπάρχουν προτάσεις -",notAvailable:"Η υπηρεσία δεν είναι διαθέσιμη αυτήν την στιγμή.",notInDic:"Δεν υπάρχει στο λεξικό",oneChange:"Ο ορθογραφικός έλεγχος ολοκληρώθηκε: Άλλαξε μια λέξη",progress:"Γίνεται ορθογραφικός έλεγχος...",title:"Ορθογραφικός Έλεγχος",toolbar:"Ορθογραφικός Έλεγχος"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:742b2e3a8417b2b14544b530f8e90165d04be9745913d6213f0a78e9d8ac0c0e
+size 1304

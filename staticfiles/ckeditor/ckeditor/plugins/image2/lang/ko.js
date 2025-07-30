@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ko",{alt:"대체 문자열",btnUpload:"서버로 전송",captioned:"이미지 설명 넣기",captionPlaceholder:"설명",infoTab:"이미지 정보",lockRatio:"비율 유지",menu:"이미지 속성",pathName:"이미지",pathNameCaption:"설명",resetSize:"원래 크기로",resizer:"크기를 조절하려면 클릭 후 드래그 하세요",title:"이미지 속성",uploadTab:"업로드",urlMissing:"이미지 원본 주소(URL)가 없습니다."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae550116f9717b19cbe30dc15c387ab4f03cf579593bc1ab12f2b550995d9bc0
+size 486

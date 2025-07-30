@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","sl",{alt:"Nadomestno besedilo",btnUpload:"Pošlji na strežnik",captioned:"Podnaslovljena slika",captionPlaceholder:"Napis",infoTab:"Podatki o sliki",lockRatio:"Zakleni razmerje",menu:"Lastnosti slike",pathName:"slika",pathNameCaption:"napis",resetSize:"Ponastavi velikost",resizer:"Kliknite in povlecite, da spremeniti velikost",title:"Lastnosti slike",uploadTab:"Naloži",urlMissing:"Manjka vir (URL) slike."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:14eacd87749cac17acab387c7d562bf98e485f38a1e10e8b8c74126978b820df
+size 451

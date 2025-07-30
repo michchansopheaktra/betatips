@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","pl",{title:"Właściwości wypełniacza",toolbar:"Utwórz wypełniacz",name:"Nazwa wypełniacza",invalidName:"Wypełniacz nie może być pusty ani nie może zawierać żadnego z następujących znaków: [, ], < oraz >",pathName:"wypełniacz"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b112776d0e7bf7cb0df259d7a03cc843b0d2fb4ad9885e4724e6e3d7391b452
+size 432

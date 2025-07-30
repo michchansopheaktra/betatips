@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","nb",{button:"Sett inn kodesnutt",codeContents:"Kodeinnhold",emptySnippetError:"En kodesnutt kan ikke være tom.",language:"Språk",title:"Kodesnutt",pathName:"kodesnutt"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:999c628aefc54bb173cbc2bc6231691aea317cf679dc143b5a6a2a99fa53bdb9
+size 360

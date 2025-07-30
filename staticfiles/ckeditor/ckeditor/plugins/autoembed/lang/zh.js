@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("autoembed","zh",{embeddingInProgress:"正在嘗試嵌入已貼上的 URL...",embeddingFailed:"這個 URL 無法被自動嵌入。"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:4602b5d718a369e7c18e57f31125860ab3fa9bcf59a61a2dfad87b8e4bc4755e
+size 162

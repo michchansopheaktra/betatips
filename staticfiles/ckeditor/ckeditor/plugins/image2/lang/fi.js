@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","fi",{alt:"Vaihtoehtoinen teksti",btnUpload:"Lähetä palvelimelle",captioned:"Kuva kuvatekstillä",captionPlaceholder:"Kuvateksti",infoTab:"Kuvan tiedot",lockRatio:"Lukitse suhteet",menu:"Kuvan ominaisuudet",pathName:"kuva",pathNameCaption:"kuvateksti",resetSize:"Alkuperäinen koko",resizer:"Klikkaa ja raahaa muuttaaksesi kokoa",title:"Kuvan ominaisuudet",uploadTab:"Lisää tiedosto",urlMissing:"Kuvan lähdeosoite puuttuu."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc3f196f14f613cfeedc5a67e44840ef9cb8fc7c67d65058bb482bb7186fb6a
+size 468

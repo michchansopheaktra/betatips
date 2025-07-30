@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","he",{title:"מידע על האלמנט",dialogName:"שם הדיאלוג",tabName:"שם הטאב",elementId:"ID של האלמנט",elementType:"סוג האלמנט"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d4966a62bd8281661a3523832bfe38f6656f88758e68ec3d5802ae7f5eb9584
+size 351

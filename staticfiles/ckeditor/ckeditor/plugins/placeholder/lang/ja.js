@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ja",{title:"プレースホルダのプロパティ",toolbar:"プレースホルダを作成",name:"プレースホルダ名",invalidName:"プレースホルダは空欄にできません。また、[, ], <, > の文字は使用できません。",pathName:"placeholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f19b008583715c52c9a8a86082c88ca5de7e848307ed78dcffb5167b6806300
+size 461

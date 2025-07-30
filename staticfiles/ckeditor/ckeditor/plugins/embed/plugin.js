@@ -1,6 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-(function(){CKEDITOR.plugins.add("embed",{icons:"embed",hidpi:!0,requires:"embedbase",init:function(b){var c=CKEDITOR.plugins.embedBase.createWidgetBaseDefinition(b);CKEDITOR.tools.extend(c,{dialog:"embedBase",button:b.lang.embedbase.button,allowedContent:"div[!data-oembed-url]",requiredContent:"div[data-oembed-url]",providerUrl:new CKEDITOR.template(b.config.embed_provider||"//ckeditor.iframe.ly/api/oembed?url={url}&callback={callback}"),styleToAllowedContentRules:function(a){return{div:{propertiesOnly:!0,
-classes:a.getClassesArray(),attributes:"!data-oembed-url"}}},upcast:function(a,b){if("div"==a.name&&a.attributes["data-oembed-url"])return b.url=a.attributes["data-oembed-url"],!0},downcast:function(a){a.attributes["data-oembed-url"]=this.data.url}},!0);b.widgets.add("embed",c);b.filter.addElementCallback(function(a){if("data-oembed-url"in a.attributes)return CKEDITOR.FILTER_SKIP_TREE})}})})();
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f4ab6635ad78daf27cafd531cb3207398020e11b5d21901248b79aaf13e67a3
+size 1058

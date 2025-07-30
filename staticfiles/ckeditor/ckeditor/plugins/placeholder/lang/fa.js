@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","fa",{title:"ویژگی‌های محل نگهداری",toolbar:"ایجاد یک محل نگهداری",name:"نام مکان نگهداری",invalidName:"مکان نگهداری نمی‌تواند خالی باشد و همچنین نمی‌تواند محتوی نویسه‌های مقابل باشد: [, ], <, >",pathName:"مکان نگهداری"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd6558c7fc38b98443b67b26d8f2c83b83d0ec058de34a5ae94e506e2e0f17a
+size 541

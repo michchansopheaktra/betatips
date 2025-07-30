@@ -1,3 +1,3 @@
-﻿CKEDITOR.plugins.setLang("docprops","nb",{bgColor:"Bakgrunnsfarge",bgFixed:"Lås bakgrunnsbilde",bgImage:"URL for bakgrunnsbilde",charset:"Tegnsett",charsetASCII:"ASCII",charsetCE:"Sentraleuropeisk",charsetCR:"Kyrillisk",charsetCT:"Tradisonell kinesisk (Big5)",charsetGR:"Gresk",charsetJP:"Japansk",charsetKR:"Koreansk",charsetOther:"Annet tegnsett",charsetTR:"Tyrkisk",charsetUN:"Unicode (UTF-8)",charsetWE:"Vesteuropeisk",chooseColor:"Velg",design:"Design",docTitle:"Sidetittel",docType:"Dokumenttype header",
-docTypeOther:"Annet dokumenttype header",label:"Dokumentegenskaper",margin:"Sidemargin",marginBottom:"Bunn",marginLeft:"Venstre",marginRight:"Høyre",marginTop:"Topp",meta:"Meta-data",metaAuthor:"Forfatter",metaCopyright:"Kopirett",metaDescription:"Dokumentbeskrivelse",metaKeywords:"Dokument nøkkelord (kommaseparert)",other:"<annen>",previewHtml:'<p>Dette er en <strong>eksempeltekst</strong>. Du bruker <a href="javascript:void(0)">CKEditor</a>.</p>',title:"Dokumentegenskaper",txtColor:"Tekstfarge",
-xhtmlDec:"Inkluder XHTML-deklarasjon"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3a0b4ef2e58ec63d0a0e13a5cd4cd4cf6d5468f60878a190e25f76e5fad6cb7
+size 1060

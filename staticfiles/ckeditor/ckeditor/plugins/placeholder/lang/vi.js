@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","vi",{title:"Thuộc tính đặt chỗ",toolbar:"Tạo đặt chỗ",name:"Tên giữ chỗ",invalidName:"Giữ chỗ không thể để trống và không thể chứa bất kỳ ký tự sau: [,], <, >",pathName:"giữ chỗ"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:992a05e550f94f409f56211501ad5243a7f57bedc1e764ff51a5220017c7f4a7
+size 418

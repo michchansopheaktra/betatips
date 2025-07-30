@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","ro",{button:"Adaugă segment de cod",codeContents:"Conținutul codului",emptySnippetError:"Un segment de cod nu poate fi gol.",language:"Limba",title:"Segment de cod",pathName:"segment de cod"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:557080f71e83b1519f07d73bfa1701883ed0698304cce54bf3819a919f1c4bb8
+size 383

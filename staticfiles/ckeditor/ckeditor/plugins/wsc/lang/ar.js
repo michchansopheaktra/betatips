@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","ar",{btnIgnore:"تجاهل",btnIgnoreAll:"تجاهل الكل",btnReplace:"تغيير",btnReplaceAll:"تغيير الكل",btnUndo:"تراجع",changeTo:"التغيير إلى",errorLoading:"خطأ في تحميل تطبيق خدمة الاستضافة: %s.",ieSpellDownload:"المدقق الإملائي (الإنجليزي) غير مثبّت. هل تود تحميله الآن؟",manyChanges:"تم إكمال التدقيق الإملائي: تم تغيير %1 من كلمات",noChanges:"تم التدقيق الإملائي: لم يتم تغيير أي كلمة",noMispell:"تم التدقيق الإملائي: لم يتم العثور على أي أخطاء إملائية",noSuggestions:"- لا توجد إقتراحات -",
-notAvailable:"عفواً، ولكن هذه الخدمة غير متاحة الان",notInDic:"ليست في القاموس",oneChange:"تم التدقيق الإملائي: تم تغيير كلمة واحدة فقط",progress:"جاري التدقيق الاملائى",title:"التدقيق الإملائي",toolbar:"تدقيق إملائي"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eacb0b86f7a0231008b0bd9c7498d3282793f6341f61782d703753b5fb0a910
+size 1113

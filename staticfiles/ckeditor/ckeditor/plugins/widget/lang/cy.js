@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","cy",{move:"Clcio a llusgo i symud"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a492126fbedd28eb0c212916bd12b11bec2825a812d61ce1bb192451de5879
+size 220

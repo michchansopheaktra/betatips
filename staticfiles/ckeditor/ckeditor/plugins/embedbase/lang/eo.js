@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","eo",{pathName:"Aŭdvidea objekto",title:"Media Embed",button:"Insert Media Embed",unsupportedUrlGiven:"The specified URL is not supported.",unsupportedUrl:"The URL {url} is not supported by Media Embed.",fetchingFailedGiven:"Failed to fetch content for the given URL.",fetchingFailed:"Failed to fetch content for {url}.",fetchingOne:"Fetching oEmbed response...",fetchingMany:"Fetching oEmbed responses, {current} of {max} done..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:297a9c43c1710920dfa96e00614d44a9f6c5ccb9d8e2cd5a47531fae9b480a4e
+size 475

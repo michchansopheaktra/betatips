@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","pt-br",{pathName:"objeto de mídia",title:"Incorporação de Mídia",button:"Inserir Incorporação de Mídia",unsupportedUrlGiven:"A URL especificada não é suportada.",unsupportedUrl:"A UTL {url} não é suportada pela Incorporação de Mídia.",fetchingFailedGiven:"Falha ao obter conteúdo para a URL informada.",fetchingFailed:"Falha ao obter conteúdo para {url}.",fetchingOne:"Obtendo resposta oEmbed...",fetchingMany:"Obtendo respostas oEmbed, {current} de {max} completos..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:191af9a494bcaa6d7b612177c84194548d18a23e7cba808305bfaa6a442254dc
+size 529

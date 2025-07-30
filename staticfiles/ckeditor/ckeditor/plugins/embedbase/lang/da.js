@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","da",{pathName:"media objekt",title:"Media Embed",button:"Indsæt Media Embed",unsupportedUrlGiven:"Den angivende URL er ikke undersøttet.",unsupportedUrl:"URLen {url} er ikke undersøttet af Media Embed.",fetchingFailedGiven:"Kunne ikke hente indholdet fra den angivende URL.",fetchingFailed:"Kunne ikke hente indholdet fra {url}.",fetchingOne:"Henter oEmbed-svar",fetchingMany:"Henter oEmbed-svar, {current} af {max} færdige..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0db80cd829aa2b08f18d3be67000e4ff3a183aeb4ae144affd254c83b39b8a0e
+size 475

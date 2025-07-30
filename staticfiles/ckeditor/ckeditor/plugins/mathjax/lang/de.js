@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","de",{title:"Mathematik in Tex",button:"Rechnung",dialogInput:"Schreiben Sie hier in Tex",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"TeX-Dokumentation",loading:"Ladevorgang...",pathName:"rechnen"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafb9c44d5147cdd4d14cc17e47ddd3442139a4965d06f448c2742080be1266f
+size 259

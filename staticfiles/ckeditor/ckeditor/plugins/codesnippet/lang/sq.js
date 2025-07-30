@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","sq",{button:"Shto kod copëze",codeContents:"Përmbajtja e kodit",emptySnippetError:"A code snippet cannot be empty.",language:"Gjuha",title:"Code snippet",pathName:"code snippet"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:24506467e358da04c9d8373474a9539af6bc4c67024d00133edd6b899361717e
+size 370

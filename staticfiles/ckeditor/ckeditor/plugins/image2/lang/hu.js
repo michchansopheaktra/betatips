@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","hu",{alt:"Buborék szöveg",btnUpload:"Küldés a szerverre",captioned:"Feliratozott kép",captionPlaceholder:"Képfelirat",infoTab:"Alaptulajdonságok",lockRatio:"Arány megtartása",menu:"Kép tulajdonságai",pathName:"kép",pathNameCaption:"felirat",resetSize:"Eredeti méret",resizer:"Kattints és húzz az átméretezéshez",title:"Kép tulajdonságai",uploadTab:"Feltöltés",urlMissing:"Hiányzik a kép URL-je"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd824924a5b6672e431b523787aafa75ad0df0912f3e3a2a127ba97f56b187f
+size 459

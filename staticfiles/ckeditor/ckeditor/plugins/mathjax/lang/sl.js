@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","sl",{title:"Matematika v TeX",button:"Matematika",dialogInput:"Napišite svoj TeX tukaj",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"TeX dokumentacija",loading:"nalaganje...",pathName:"matematika"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc5acf0bacd822288323828fea28a77bf26adb4846b2b73d1463d74056dcb9ef
+size 260

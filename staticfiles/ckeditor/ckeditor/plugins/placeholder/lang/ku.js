@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ku",{title:"خاسیەتی شوێن هەڵگر",toolbar:"درووستکردنی شوێن هەڵگر",name:"ناوی شوێنگر",invalidName:"شوێنگر نابێت بەتاڵ بێت یان هەریەکێک لەم نووسانەی خوارەوەی تێدابێت: [, ], <, >",pathName:"شوێنگر"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7ea4d67b10e3c8e7b1083c639ffff3a873552c9c388401d64addcafc6fda2f
+size 492

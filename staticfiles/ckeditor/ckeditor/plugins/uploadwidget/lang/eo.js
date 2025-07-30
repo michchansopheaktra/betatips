@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","eo",{abort:"Alŝuto ĉesigita de la uzanto",doneOne:"Dosiero sukcese alŝutita.",doneMany:"Sukcese alŝutitaj %1 dosieroj.",uploadOne:"alŝutata dosiero ({percentage}%)...",uploadMany:"Alŝutataj dosieroj, {current} el {max} faritaj ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd4830a3e8c202be7fb16df52e1881820508e39d7c7f3fa443b1ad7f2f326f7
+size 444

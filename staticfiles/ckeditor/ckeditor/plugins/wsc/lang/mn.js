@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","mn",{btnIgnore:"Зөвшөөрөх",btnIgnoreAll:"Бүгдийг зөвшөөрөх",btnReplace:"Солих",btnReplaceAll:"Бүгдийг Дарж бичих",btnUndo:"Буцаах",changeTo:"Өөрчлөх",errorLoading:"Error loading application service host: %s.",ieSpellDownload:"Дүрэм шалгагч суугаагүй байна. Татаж авахыг хүсч байна уу?",manyChanges:"Дүрэм шалгаад дууссан: %1 үг өөрчлөгдсөн",noChanges:"Дүрэм шалгаад дууссан: үг өөрчлөгдөөгүй",noMispell:"Дүрэм шалгаад дууссан: Алдаа олдсонгүй",noSuggestions:"- Тайлбаргүй -",
-notAvailable:"Sorry, but service is unavailable now.",notInDic:"Толь бичиггүй",oneChange:"Дүрэм шалгаад дууссан: 1 үг өөрчлөгдсөн",progress:"Дүрэм шалгаж байгаа үйл явц...",title:"Spell Checker",toolbar:"Үгийн дүрэх шалгах"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc444e7ac544af4b53e1652017da282d3abc7fe1c87881e7e2c46584a2b2d273
+size 1036

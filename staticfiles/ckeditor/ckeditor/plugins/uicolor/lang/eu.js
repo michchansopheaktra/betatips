@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","eu",{title:"EI Kolore Hautatzailea",preview:"Zuzeneko aurreikuspena",config:"Itsatsi karaktere kate hau zure config.js fitxategian.",predefined:"Aurredefinitutako kolore multzoak"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e841065f3fe9913deef10b5c97e1a53a3478b2a120d87d462836522a3ae0c3c
+size 366

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","lt",{title:"Elemento informacija",dialogName:"Dialogo lango pavadinimas",tabName:"Auselės pavadinimas",elementId:"Elemento ID",elementType:"Elemento tipas"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cfaa866f0007474dedd03a05b124ae992359d752eb31d5f2f8f9a5b64875f9b
+size 344

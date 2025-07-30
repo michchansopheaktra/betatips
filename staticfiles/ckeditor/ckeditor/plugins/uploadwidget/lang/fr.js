@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","fr",{abort:"Téléversement interrompu par l'utilisateur.",doneOne:"Fichier téléversé avec succès.",doneMany:"%1 fichiers téléversés avec succès.",uploadOne:"Téléversement du fichier en cours ({percentage}%)...",uploadMany:"Téléversement des fichiers en cours, {current} sur {max} effectués ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:346c3cd6ddc8bc3d90ea3ee371ebc85d030b08bd08528ec916316e2407f5e18a
+size 515

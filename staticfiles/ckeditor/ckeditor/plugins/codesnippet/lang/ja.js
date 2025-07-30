@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","ja",{button:"コードスニペットを挿入",codeContents:"コード内容",emptySnippetError:"コードスニペットを入力してください。",language:"言語",title:"コードスニペット",pathName:"コードスニペット"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:b056fd1a677ca66f662d60037d92ba1996f358805fbe872d3277405866fe4adb
+size 431

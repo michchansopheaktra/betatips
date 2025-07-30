@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","fr",{button:"Insérer un extrait de code",codeContents:"Contenu du code",emptySnippetError:"Un extrait de code ne peut pas être vide.",language:"Langue",title:"Extrait de code",pathName:"extrait de code"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3842ead65573c41fe78e9028b458dfea61483e7a7ac7b9ddec3f5c16cf91b21
+size 395

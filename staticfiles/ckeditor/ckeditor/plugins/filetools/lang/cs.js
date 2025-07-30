@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","cs",{loadError:"Při čtení souboru došlo k chybě.",networkError:"Při nahrávání souboru došlo k chybě v síti.",httpError404:"Při nahrávání souboru došlo k chybě HTTP (404: Soubor nenalezen).",httpError403:"Při nahrávání souboru došlo k chybě HTTP (403: Zakázáno).",httpError:"Při nahrávání souboru došlo k chybě HTTP (chybový stav: %1).",noUrlError:"URL pro nahrání není zadána.",responseError:"Nesprávná odpověď serveru."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:e54b1726f9c0296c5b545a53aab429d95a348eaf1917190ea48e55c0d2006481
+size 650

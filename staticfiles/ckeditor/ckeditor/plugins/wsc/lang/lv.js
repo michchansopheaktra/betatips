@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","lv",{btnIgnore:"Ignorēt",btnIgnoreAll:"Ignorēt visu",btnReplace:"Aizvietot",btnReplaceAll:"Aizvietot visu",btnUndo:"Atcelt",changeTo:"Nomainīt uz",errorLoading:"Kļūda ielādējot aplikācijas servisa adresi: %s.",ieSpellDownload:"Pareizrakstības pārbaudītājs nav pievienots. Vai vēlaties to lejupielādēt tagad?",manyChanges:"Pareizrakstības pārbaude pabeigta: %1 vārdi tika mainīti",noChanges:"Pareizrakstības pārbaude pabeigta: nekas netika labots",noMispell:"Pareizrakstības pārbaude pabeigta: kļūdas netika atrastas",
-noSuggestions:"- Nav ieteikumu -",notAvailable:"Atvainojiet, bet serviss šobrīd nav pieejams.",notInDic:"Netika atrasts vārdnīcā",oneChange:"Pareizrakstības pārbaude pabeigta: 1 vārds izmainīts",progress:"Notiek pareizrakstības pārbaude...",title:"Pārbaudīt gramatiku",toolbar:"Pareizrakstības pārbaude"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e493b459dfa7ed7014e9fbe54a42e01d3991f9f3aeb016757708842a9ce7df
+size 899

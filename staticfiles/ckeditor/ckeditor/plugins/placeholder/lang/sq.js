@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","sq",{title:"Karakteristikat e Mbajtësit të Vendit",toolbar:"Krijo Mabjtës Vendi",name:"Placeholder Name",invalidName:"The placeholder can not be empty and can not contain any of following characters: [, ], <, >",pathName:"placeholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:4415c5e57944cd7ece7545caf552cdaabc460a1fef103e6600950d05233d952a
+size 428

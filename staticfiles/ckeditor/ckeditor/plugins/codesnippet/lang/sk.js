@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","sk",{button:"Vložte kód Snippet-u",codeContents:"Obsah kódu",emptySnippetError:"Snippet kódu nesmie byť prázdny.",language:"Jazyk",title:"Snippet kódu",pathName:"snippet kódu"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:55d79ab73787692922e93a9a6c89e7702401093874c1264a083dcc802e6fe5eb
+size 374

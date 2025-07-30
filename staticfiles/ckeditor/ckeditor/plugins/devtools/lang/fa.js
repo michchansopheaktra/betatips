@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","fa",{title:"اطلاعات عنصر",dialogName:"نام پنجره محاوره‌ای",tabName:"نام برگه",elementId:"ID عنصر",elementType:"نوع عنصر"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:127c10d884dd10cb785903e5d270ee34bff178ed1e894f781f240a043651e3ef
+size 355

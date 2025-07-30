@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","ru",{pathName:"media object",title:"Вставка медиаконтента",button:"Вставить медиаконтент",unsupportedUrlGiven:"Данный URL не поддерживает возможность вставки медиаконтента",unsupportedUrl:"URL {url} не поддерживает возможность вставки медиаконтента",fetchingFailedGiven:"Не удалось извлечь контент для заданного URL",fetchingFailed:"Не удалось извлечь контент для {url}",fetchingOne:"Fetching oEmbed response...",fetchingMany:"Fetching oEmbed responses, {current} of {max} done..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d645ffc7c11e1e82a2fa1ba6136f9a05af024be8d29d87957264ca980bc97823
+size 722

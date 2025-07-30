@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","pl",{btnIgnore:"Ignoruj",btnIgnoreAll:"Ignoruj wszystkie",btnReplace:"Zmień",btnReplaceAll:"Zmień wszystkie",btnUndo:"Cofnij",changeTo:"Zmień na",errorLoading:"Błąd wczytywania hosta aplikacji usługi: %s.",ieSpellDownload:"Słownik nie jest zainstalowany. Czy chcesz go pobrać?",manyChanges:"Sprawdzanie zakończone: zmieniono %l słów",noChanges:"Sprawdzanie zakończone: nie zmieniono żadnego słowa",noMispell:"Sprawdzanie zakończone: nie znaleziono błędów",noSuggestions:"- Brak sugestii -",
-notAvailable:"Przepraszamy, ale usługa jest obecnie niedostępna.",notInDic:"Słowa nie ma w słowniku",oneChange:"Sprawdzanie zakończone: zmieniono jedno słowo",progress:"Trwa sprawdzanie...",title:"Sprawdź pisownię",toolbar:"Sprawdź pisownię"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e2015ea4d0e97d71f39fa7ba066beec7073589b2937a837954aa02b40fdccb
+size 798

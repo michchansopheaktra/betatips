@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","ka",{btnIgnore:"უგულებელყოფა",btnIgnoreAll:"ყველას უგულებელყოფა",btnReplace:"შეცვლა",btnReplaceAll:"ყველას შეცვლა",btnUndo:"გაუქმება",changeTo:"შეცვლელი",errorLoading:"სერვისის გამოძახების შეცდომა: %s.",ieSpellDownload:"მართლწერის შემოწმება არაა დაინსტალირებული. ჩამოვქაჩოთ ინტერნეტიდან?",manyChanges:"მართლწერის შემოწმება: %1 სიტყვა შეიცვალა",noChanges:"მართლწერის შემოწმება: არაფერი შეცვლილა",noMispell:"მართლწერის შემოწმება: შეცდომა არ მოიძებნა",noSuggestions:"- არაა შემოთავაზება -",
-notAvailable:"უკაცრავად, ეს სერვისი ამჟამად მიუწვდომელია.",notInDic:"არაა ლექსიკონში",oneChange:"მართლწერის შემოწმება: ერთი სიტყვა შეიცვალა",progress:"მიმდინარეობს მართლწერის შემოწმება...",title:"მართლწერა",toolbar:"მართლწერა"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d2c608d2a5fbe5bdbb11bf841179a8455fc87e35182b5eabdfa1eb37226e66
+size 1564

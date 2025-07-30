@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("language","ku",{button:"جێگیرکردنی زمان",remove:"لابردنی زمان"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccbada9762244b9c2ff6d863e3ad062b24fc17745040a24f0a919052584fecb4
+size 264

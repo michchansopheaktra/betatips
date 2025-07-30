@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","sk",{btnIgnore:"Ignorovať",btnIgnoreAll:"Ignorovať všetko",btnReplace:"Prepísat",btnReplaceAll:"Prepísat všetko",btnUndo:"Späť",changeTo:"Zmeniť na",errorLoading:"Chyba pri načítaní slovníka z adresy: %s.",ieSpellDownload:"Kontrola pravopisu nie je naištalovaná. Chcete ju teraz stiahnuť?",manyChanges:"Kontrola pravopisu dokončená: Bolo zmenených %1 slov",noChanges:"Kontrola pravopisu dokončená: Neboli zmenené žiadne slová",noMispell:"Kontrola pravopisu dokončená: Neboli nájdené žiadne chyby pravopisu",
-noSuggestions:"- Žiadny návrh -",notAvailable:"Prepáčte, ale služba je momentálne nedostupná.",notInDic:"Nie je v slovníku",oneChange:"Kontrola pravopisu dokončená: Bolo zmenené jedno slovo",progress:"Prebieha kontrola pravopisu...",title:"Skontrolovať pravopis",toolbar:"Kontrola pravopisu"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f338fc688877302b3942bf0dfe58913b7ba022dc74b8fab9363f04475a7ec46b
+size 878

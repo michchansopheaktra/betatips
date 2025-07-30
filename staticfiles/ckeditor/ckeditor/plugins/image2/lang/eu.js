@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","eu",{alt:"Ordezko Testua",btnUpload:"Zerbitzarira bidalia",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Irudi informazioa",lockRatio:"Erlazioa Blokeatu",menu:"Irudi Ezaugarriak",pathName:"image",pathNameCaption:"caption",resetSize:"Tamaina Berrezarri",resizer:"Click and drag to resize",title:"Irudi Ezaugarriak",uploadTab:"Gora kargatu",urlMissing:"Irudiaren iturburu URL-a falta da."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6fa60dde1fbdd0c0149895dd5e1b6de9c58d76b02356392f88a547c65430de4
+size 447

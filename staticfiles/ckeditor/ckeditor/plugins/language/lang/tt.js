@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("language","tt",{button:"Тел сайлау",remove:"Телне бетерү"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:30062451c23f60361ea3e2f1b8a48cc8ec2a12c66a54be0bc0c04cc641186b44
+size 254

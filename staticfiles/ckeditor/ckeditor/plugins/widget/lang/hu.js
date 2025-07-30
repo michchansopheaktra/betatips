@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","hu",{move:"Kattints és húzd a mozgatáshoz"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6713b633a66450004c30ea09df4c2957ac82c8a99f708f3dbb85d8c0b8e441e
+size 231

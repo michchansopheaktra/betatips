@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","eo",{move:"klaki kaj treni por movi"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc77c542946824c744035789a9ffd414de137e7541103257e1449571cb2aede
+size 222

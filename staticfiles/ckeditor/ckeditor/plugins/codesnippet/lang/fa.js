@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","fa",{button:"قرار دادن کد قطعه",codeContents:"محتوای کد",emptySnippetError:"کد نمی تواند خالی باشد.",language:"زبان",title:"کد قطعه",pathName:"کد قطعه"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8810153a3766f7b505dc22cb1661f83624a37c0271080abd0495bff6a00be130
+size 398

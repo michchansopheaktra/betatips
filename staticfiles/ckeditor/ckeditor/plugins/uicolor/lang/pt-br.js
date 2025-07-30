@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","pt-br",{title:"Paleta de Cores",preview:"Visualização ao vivo",config:"Cole o texto no seu arquivo config.js",predefined:"Conjuntos de cores predefinidos"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2f90682ca7485582f454ff7ffab3b7f0cb2070f822a9f7fd40035d1d1ece8e4
+size 343

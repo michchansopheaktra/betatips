@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","ru",{title:"Свойства плейсхолдера",toolbar:"Создать плейсхолдер",name:"Имя плейсхолдера",invalidName:'Плейсхолдер не может быть пустым и содержать один из следующих символов: "[, ], <, >"',pathName:"плейсхолдер"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:282b1393c9eff43665c326a1f0a87d1f6153189dfd2910a8ea2affd94331db9f
+size 527

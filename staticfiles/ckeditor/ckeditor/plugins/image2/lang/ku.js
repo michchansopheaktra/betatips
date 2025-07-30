@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ku",{alt:"جێگرەوەی دەق",btnUpload:"ناردنی بۆ ڕاژه",captioned:"وێنەی بەسەردێر",captionPlaceholder:"سەردێر",infoTab:"زانیاری وێنه",lockRatio:"داخستنی ڕێژه",menu:"خاسیەتی وێنه",pathName:"وێنە",pathNameCaption:"سەردێر",resetSize:"ڕێکخستنەوەی قەباره",resizer:"کرتەبکە و ڕایبکێشە بۆ قەبارە گۆڕین",title:"خاسیەتی وێنه",uploadTab:"بارکردن",urlMissing:"سەرچاوەی بەستەری وێنه بزره"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0db50b46212f745857fd22800a6eb960988bb2f07e94cb6550c90d9f17473f4c
+size 584

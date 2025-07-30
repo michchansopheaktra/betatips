@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","et",{title:"Elemendi andmed",dialogName:"Dialoogiakna nimi",tabName:"Saki nimi",elementId:"Elemendi ID",elementType:"Elemendi liik"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fb04e8f14be83a39957fac34c2ced66c3b2d3732ecbff28fdc351f19981e14
+size 319

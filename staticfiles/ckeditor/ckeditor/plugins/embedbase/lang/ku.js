@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","ku",{pathName:"ڕاگەیاندنی بەرکار",title:"خستنەناوی ڕاگەیاندن",button:"خستنەناوی ڕاگەیاندن",unsupportedUrlGiven:"بەستەری نیشانکراو پشتیوان نەکراوە.",unsupportedUrl:"بەستەری {url} پشتیواننەککراوە لەلایەن خستنەناوی ڕاگەیاندن.",fetchingFailedGiven:"سەرکەوتوونەبوو لە هێنانی ناوەڕۆکی بەستەری دراو",fetchingFailed:"سەرکەوتوونەبوو لە هێنانەی ناوەڕۆکی ئەم بەستەرە {url}.",fetchingOne:"لە هەوڵی وەڵامی خستنەناوە",fetchingMany:"لە هەوڵی هێنانی خستنەناوە, {current} لە {max} کۆتایهاتووە..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:be701b7169e041083a74214b247cd230d1c2d89cb3981d8cbf30756ebb1d8cea
+size 791

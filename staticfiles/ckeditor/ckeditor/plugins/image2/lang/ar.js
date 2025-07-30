@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ar",{alt:"عنوان الصورة",btnUpload:"أرسلها للخادم",captioned:"صورة ذات اسم",captionPlaceholder:"تسمية",infoTab:"معلومات الصورة",lockRatio:"تناسق الحجم",menu:"خصائص الصورة",pathName:"صورة",pathNameCaption:"تسمية",resetSize:"إستعادة الحجم الأصلي",resizer:"انقر ثم اسحب للتحجيم",title:"خصائص الصورة",uploadTab:"رفع",urlMissing:"عنوان مصدر الصورة مفقود"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca7ed774f2946521271bf71f86937848d5562cfa3943067c7107a035cbcc703f
+size 539

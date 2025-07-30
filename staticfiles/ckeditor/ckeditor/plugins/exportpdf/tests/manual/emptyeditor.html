@@ -1,18 +1,3 @@
-<div id="editor1">
-</div>
-
-<div id="editor2">
-	<p>My content and wrapper will be deleted.</p>
-</div>
-
-<script>
-	exportPdfUtils.initManualTest();
-
-	CKEDITOR.replace( 'editor1', exportPdfUtils.getDefaultConfig( 'manual' ) );
-
-	var editor2 = CKEDITOR.replace( 'editor2', exportPdfUtils.getDefaultConfig( 'manual' ) );
-
-	editor2.on( 'exportPdf', function( evt ) {
-		evt.data.html = '';
-	}, null, null, 16 );
-</script>
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a9f97f3d0f977add10c7f7664e5e63dc5d225f15187eceb528d33def68c436
+size 432

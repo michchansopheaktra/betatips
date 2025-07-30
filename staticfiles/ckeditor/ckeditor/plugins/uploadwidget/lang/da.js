@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","da",{abort:"Upload er afbrudt af brugen.",doneOne:"Filen er uploadet.",doneMany:"Du har uploadet %1 filer.",uploadOne:"Uploader fil ({percentage}%)...",uploadMany:"Uploader filer, {current} af {max} er uploadet ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:034cc067ee0d1efb7deee4276944038b993b5f92915a099cdab0cbda933c7395
+size 422

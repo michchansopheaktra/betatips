@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","cs",{pathName:"objekt média",title:"Vložení médií",button:"Vložit médium",unsupportedUrlGiven:"Zadaná URL není podporována.",unsupportedUrl:"URL {url} není podporována ",fetchingFailedGiven:"Pro zadanou adresu URL nelze získat obsah.",fetchingFailed:"Nelze získat obsah na {url}.",fetchingOne:"Získávání odpovědí oEmbed...",fetchingMany:"Získávání odpovědí oEmbed. {current} z {max} hotovo..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:856fa2b1dcf38cebe8f83ad3fe278553c91e3913d203ceed26f234b0679c585c
+size 463

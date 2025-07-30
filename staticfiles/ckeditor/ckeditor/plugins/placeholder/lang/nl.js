@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","nl",{title:"Eigenschappen placeholder",toolbar:"Placeholder aanmaken",name:"Naam placeholder",invalidName:"De placeholder mag niet leeg zijn, en mag niet een van de volgende tekens bevatten: [, ], <, >",pathName:"placeholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa08a73079ad3600b69dd1b7f64a7504db46d1c775f7841e8be99b7e9756bd7
+size 416

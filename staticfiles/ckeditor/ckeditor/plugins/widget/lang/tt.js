@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","tt",{move:"Күчереп куер өчен басып шудырыгыз"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:910e26d1b3b16a57b27d6b40288bb818444ac458a88a0e3bb9ced2e1f217cc05
+size 260

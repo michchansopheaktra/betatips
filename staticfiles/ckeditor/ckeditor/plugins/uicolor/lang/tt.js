@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","tt",{title:"Интерфейс төсләрен сайлау",preview:"Тере карап алу",config:"Бу юлны config.js файлына языгыз",predefined:"Баштан билгеләнгән төсләр җыелмасы"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3542f5f7f41f7df658d8922ca683c65a369939bf492b72b66c56b5b0509c0b3
+size 425

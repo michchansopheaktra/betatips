@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","af",{title:"Plekhouer eienskappe",toolbar:"Plekhouer",name:"Plekhouer naam",invalidName:"Die plekhouer mag nie leeg wees nie, en kan geen van die volgende karakters bevat nie.  [, ], <, >",pathName:"plekhouer"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae340f7572dc05614da3a711fa557b9a5e03e8abe40029ae4a3edc305211b9e2
+size 400

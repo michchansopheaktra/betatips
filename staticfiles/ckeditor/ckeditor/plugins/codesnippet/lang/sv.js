@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","sv",{button:"Infoga kodsnutt",codeContents:"Kodinnehålll",emptySnippetError:"Innehåll krävs för kodsnutt",language:"Språk",title:"Kodsnutt",pathName:"kodsnutt"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:34dc1792bd5b2983b2604541e3729060ac5029260347681b2d30864fb05dca55
+size 355

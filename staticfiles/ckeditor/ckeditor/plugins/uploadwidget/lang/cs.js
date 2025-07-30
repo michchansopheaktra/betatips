@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","cs",{abort:"Nahrávání zrušeno uživatelem.",doneOne:"Soubor úspěšně nahrán.",doneMany:"Úspěšně nahráno %1 souborů.",uploadOne:"Nahrávání souboru ({percentage}%)...",uploadMany:"Nahrávání souborů, {current} z {max} hotovo ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8cbd0ab85f46c841d1b15e1dc73ea9d3c5655ab2684aab068582987875615e
+size 454

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","ku",{button:"تێخستنی تیتکی کۆد",codeContents:"ناوەڕۆکی کۆد",emptySnippetError:"تیتکی کۆد نابێت بەتاڵ بێت.",language:"زمان",title:"تیتکی کۆد",pathName:"تیتکی کۆد"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f8bddbd508c9473ec8a382e4b13b3365edf1cacec2bb7f059936c64b51e25a
+size 419

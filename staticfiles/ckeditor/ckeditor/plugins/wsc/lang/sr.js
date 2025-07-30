@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","sr",{btnIgnore:"Игнориши",btnIgnoreAll:"Игнориши све",btnReplace:"Замени",btnReplaceAll:"Замени све",btnUndo:"Врати акцију",changeTo:"Измени",errorLoading:"Error loading application service host: %s.",ieSpellDownload:"Провера спеловања није инсталирана. Да ли желите да је скинете са Интернета?",manyChanges:"Провера спеловања завршена:  %1 реч(и) је измењено",noChanges:"Провера спеловања завршена: Није измењена ниједна реч",noMispell:"Провера спеловања завршена: грешке нису пронађене",
-noSuggestions:"- Без сугестија -",notAvailable:"Sorry, but service is unavailable now.",notInDic:"Није у речнику",oneChange:"Провера спеловања завршена: Измењена је једна реч",progress:"Провера спеловања у току...",title:"Spell Checker",toolbar:"Провери спеловање"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:602f42d027ce3ab2247c17fd158155c096beaed05f7e1f2640d2f6f7ac6a0a1b
+size 1136

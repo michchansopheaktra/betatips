@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","sl",{title:"Podatki elementa",dialogName:"Ime pogovornega okna",tabName:"Ime zavihka",elementId:"ID elementa",elementType:"Tip elementa"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47467f48ac78e255d95cbe519ee1b59a82e34b25447e6459bfc2cbb10ad691c
+size 324

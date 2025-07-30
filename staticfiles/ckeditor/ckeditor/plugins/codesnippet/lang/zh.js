@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","zh",{button:"插入程式碼片段",codeContents:"程式碼內容",emptySnippetError:"程式碼片段不可為空白。",language:"語言",title:"程式碼片段",pathName:"程式碼片段"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8c2df8988757cfa8b36077598845d0edcd14ea63fb7ba750b1b944a2a6b86bb
+size 380

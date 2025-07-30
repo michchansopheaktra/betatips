@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","ku",{title:"زانیاری توخم",dialogName:"ناوی پەنجەرەی دیالۆگ",tabName:"ناوی بازدەر تاب",elementId:"ناسنامەی توخم",elementType:"جۆری توخم"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b62bcc18405de36aff92e04a4ba654a8e314339ade505aec8a63c9ef2ef1ca
+size 385

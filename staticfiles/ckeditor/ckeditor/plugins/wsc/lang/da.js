@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","da",{btnIgnore:"Ignorér",btnIgnoreAll:"Ignorér alle",btnReplace:"Erstat",btnReplaceAll:"Erstat alle",btnUndo:"Tilbage",changeTo:"Forslag",errorLoading:"Fejl ved indlæsning af host: %s.",ieSpellDownload:"Stavekontrol ikke installeret. Vil du installere den nu?",manyChanges:"Stavekontrol færdig: %1 ord ændret",noChanges:"Stavekontrol færdig: Ingen ord ændret",noMispell:"Stavekontrol færdig: Ingen fejl fundet",noSuggestions:"(ingen forslag)",notAvailable:"Stavekontrol er desværre ikke tilgængelig.",
-notInDic:"Ikke i ordbogen",oneChange:"Stavekontrol færdig: Et ord ændret",progress:"Stavekontrollen arbejder...",title:"Stavekontrol",toolbar:"Stavekontrol"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a8f2856e05c2cc1074e7d69f013f1eed8064a091bc354ac9a1c07437688a115
+size 708

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","ar",{title:"منتقي الألوان",preview:"معاينة مباشرة",config:"قص السطر إلى الملف config.js",predefined:"مجموعات ألوان معرفة مسبقا"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a50f1c1ceeb0062f8baafd352de57a48058cb9ee6da03b708a38cf3689a7ffa6
+size 375

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","es",{button:"Insertar fragmento de código",codeContents:"Contenido del código",emptySnippetError:"Un fragmento de código no puede estar vacío.",language:"Lenguaje",title:"Fragmento de código",pathName:"fragmento de código"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:08db1446b68eae2b54a6e8f3e9afc2151889138f644834c6a29cffdb8b7313e2
+size 419

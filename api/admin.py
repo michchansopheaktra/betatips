@@ -1,7 +1,3 @@
-from django.contrib import admin
-from . models import Post, Category, Profile, Comment
-
-admin.site.register(Post)
-admin.site.register(Category)
-admin.site.register(Profile)
-admin.site.register(Comment)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37df1bba5d5431015fac5b2774c8f29c44cba905bf96ea534f0390bfa3e3704
+size 201

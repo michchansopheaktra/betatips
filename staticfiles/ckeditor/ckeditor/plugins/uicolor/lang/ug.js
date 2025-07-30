@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","ug",{title:"ئىشلەتكۈچى ئارايۈزى رەڭ تاللىغۇچ",preview:"شۇئان ئالدىن كۆزىتىش",config:"بۇ ھەرپ تىزىقىنى config.js ھۆججەتكە چاپلايدۇ",predefined:"ئالدىن بەلگىلەنگەن رەڭلەر"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b6ab190a6f73b586eecc8b97ec89f1a65404c62a6bd5fda42e142552b09f1be
+size 456

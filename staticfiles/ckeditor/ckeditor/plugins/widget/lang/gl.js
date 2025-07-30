@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","gl",{move:"Prema e arrastre para mover"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d274522e5f01ea8cfcbd64a76c4bf54c35a3a117bf10127816b8ba91e81c743a
+size 225

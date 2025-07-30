@@ -1,4 +1,3 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://betatips.com/sitemap.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:7192f4def32f397841107b11c81ee38938751aef9a67132643cc2ed4de018285
+size 67

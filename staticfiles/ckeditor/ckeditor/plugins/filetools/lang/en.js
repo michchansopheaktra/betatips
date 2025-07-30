@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("filetools","en",{loadError:"Error occurred during file read.",networkError:"Network error occurred during file upload.",httpError404:"HTTP error occurred during file upload (404: File not found).",httpError403:"HTTP error occurred during file upload (403: Forbidden).",httpError:"HTTP error occurred during file upload (error status: %1).",noUrlError:"Upload URL is not defined.",responseError:"Incorrect server response."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c76a69bf85c1ff430a9f69967fe7c1284a9870e673d05a8b97b67bd6d851bc
+size 599

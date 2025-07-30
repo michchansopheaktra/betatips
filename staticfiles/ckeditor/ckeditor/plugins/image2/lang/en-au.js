@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","en-au",{alt:"Alternative Text",btnUpload:"Send it to the Server",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Image Info",lockRatio:"Lock Ratio",menu:"Image Properties",pathName:"image",pathNameCaption:"caption",resetSize:"Reset Size",resizer:"Click and drag to resize",title:"Image Properties",uploadTab:"Upload",urlMissing:"Image source URL is missing."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d599f3e8f219f50137486a075ed3d25149e14609648a71e64f1568b0286d65
+size 417

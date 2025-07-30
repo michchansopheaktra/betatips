@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","en",{abort:"Upload aborted by the user.",doneOne:"File successfully uploaded.",doneMany:"Successfully uploaded %1 files.",uploadOne:"Uploading file ({percentage}%)...",uploadMany:"Uploading files, {current} of {max} done ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:beced81fed24a5b1dcae02b3d5f91dced02aed41c4f259db463f549b085cd994
+size 432

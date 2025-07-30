@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","lv",{alt:"Alternatīvais teksts",btnUpload:"Nosūtīt serverim",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Informācija par attēlu",lockRatio:"Nemainīga Augstuma/Platuma attiecība",menu:"Attēla īpašības",pathName:"image",pathNameCaption:"caption",resetSize:"Atjaunot sākotnējo izmēru",resizer:"Click and drag to resize",title:"Attēla īpašības",uploadTab:"Augšupielādēt",urlMissing:"Trūkst attēla atrašanās adrese."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f5ad8d072fbe18304aceae0bae734bf2923883cd405e57ed6d371d9b0d91c50
+size 499

@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","zh",{pathName:"媒體元件",title:"內嵌媒體",button:"插入內嵌媒體",unsupportedUrlGiven:"不支援指定的 URL。",unsupportedUrl:"內嵌媒體不支援 URL {url} 。",fetchingFailedGiven:"抓取指定 URL 的內容失敗。",fetchingFailed:"抓取 {url} 的內容失敗。",fetchingOne:"正在抓取 oEmbed 回應...",fetchingMany:"正在抓取 oEmbed 回應，{max} 中的 {current} 已完成..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a73376928182c2ec74c2cc823126c76e230a43193192f97f4462a7d4c113d02
+size 453

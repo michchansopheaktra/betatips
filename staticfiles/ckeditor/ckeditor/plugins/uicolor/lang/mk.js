@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","mk",{title:"Палета со бои",preview:"Преглед",config:"Залепи го овој текст во config.js датотеката",predefined:"Предефинирани множества на бои"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f4efc0d3650c84a3d996f9bbe3b3894ad7d7166a5f53c5ea6dcb6d25c85160f
+size 403

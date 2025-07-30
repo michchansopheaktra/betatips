@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","ku",{abort:"بارکردنەکە بڕدرا لەلایەن بەکارهێنەر.",doneOne:"پەڕگەکە بەسەرکەوتووانە بارکرا.",doneMany:"بەسەرکەوتووانە بارکرا %1 پەڕگە.",uploadOne:"پەڕگە باردەکرێت ({percentage}%)...",uploadMany:"پەڕگە باردەکرێت, {current} لە {max} ئەنجامدراوە ({percentage}%)..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:341ecce806e957182d103a7873e8c0bc3249c3ee44d8ef320aecbed3532f7212
+size 577

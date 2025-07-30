@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","he",{title:"בחירת צבע ממשק משתמש",preview:"תצוגה מקדימה",config:"הדבק את הטקסט הבא לתוך הקובץ config.js",predefined:"קבוצות צבעים מוגדרות מראש"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfb1decca00dac8a212f33dbb28135211f2051a61eb89d53e97dfd2208ddbdc2
+size 403

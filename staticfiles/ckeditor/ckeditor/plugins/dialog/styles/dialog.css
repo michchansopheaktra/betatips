@@ -1,18 +1,3 @@
-.cke_dialog_open {
-	overflow: hidden;
-}
-
-.cke_dialog_container {
-	position: fixed;
-	overflow-y: auto;
-	overflow-x: auto;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	z-index: 10010;
-}
-
-.cke_dialog_body {
-	position: relative;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34597be03ec4a2bbb7e29790dfa2409302270396ca2a707d04fc456526a671a2
+size 249

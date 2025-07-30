@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","ku",{move:"کرتەبکە و ڕایبکێشە بۆ جوڵاندن"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa731e92dfee2d08159633102ab67cc869fd00d272d5bf410049caf12ec1bfd0
+size 252

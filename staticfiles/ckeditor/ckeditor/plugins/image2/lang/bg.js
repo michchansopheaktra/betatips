@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","bg",{alt:"Алтернативен текст",btnUpload:"Изпрати я на сървъра",captioned:"Надписано изображение",captionPlaceholder:"Надпис",infoTab:"Детайли за изображението",lockRatio:"Заключване на съотношението",menu:"Настройки на изображението",pathName:"изображение",pathNameCaption:"надпис",resetSize:"Нулиране на размер",resizer:"Кликни и влачи, за да преоразмериш",title:"Настройки на изображението",uploadTab:"Качване",urlMissing:"URL адреса на изображението липсва."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:04f9f74629284fc06357e5db9179822686f9ac6ec8a67932c9e74a93a9d236eb
+size 752

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","pt-br",{title:"Propriedades do Espaço Reservado",toolbar:"Criar Espaço Reservado",name:"Nome do Espaço Reservado",invalidName:"O espaço reservado não pode estar vazio e não pode conter nenhum dos seguintes caracteres:  [, ], <, >",pathName:"Espaço Reservado"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:88ba9aec9f358215c9de20a74595c369e5c7871328d3bfd7d1ece6abb9b7e873
+size 456

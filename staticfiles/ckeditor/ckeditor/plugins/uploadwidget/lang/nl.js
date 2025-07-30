@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uploadwidget","nl",{abort:"Upload gestopt door de gebruiker.",doneOne:"Bestand succesvol geüpload.",doneMany:"Succesvol %1 bestanden geüpload.",uploadOne:"Uploaden bestand ({percentage}%)…",uploadMany:"Bestanden aan het uploaden, {current} van {max} klaar ({percentage}%)…"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e05aab278bed6d1d1b6599568a2d647da5a96cbc9f444638927a0f1c6233a9
+size 456

@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","pl",{pathName:"obiekt multimediów",title:"Osadzenie multimediów (oEmbed)",button:"Osadź obiekt multimediów (oEmbed)",unsupportedUrlGiven:"Podany adres URL nie jest obsługiwany.",unsupportedUrl:"Adres URL {url} nie jest obsługiwany przez funkcjonalność osadzania multimediów.",fetchingFailedGiven:"Nie udało się pobrać zawartości dla podanego adresu URL.",fetchingFailed:"Nie udało się pobrać zawartości dla {url}.",fetchingOne:"Pobieranie odpowiedzi oEmbed...",fetchingMany:"Pobieranie odpowiedzi oEmbed, gotowe {current} z {max}..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f4a9cd8637dc1febd38116e718b00c40f4445adbf28a9fbb549b41d540dd1d6
+size 594

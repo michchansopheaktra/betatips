@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","pl",{alt:"Tekst zastępczy",btnUpload:"Wyślij",captioned:"Obrazek z podpisem",captionPlaceholder:"Podpis",infoTab:"Informacje o obrazku",lockRatio:"Zablokuj proporcje",menu:"Właściwości obrazka",pathName:"obrazek",pathNameCaption:"podpis",resetSize:"Przywróć rozmiar",resizer:"Kliknij i przeciągnij, by zmienić rozmiar.",title:"Właściwości obrazka",uploadTab:"Wyślij",urlMissing:"Podaj adres URL obrazka."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed7b7e3e12fc771971442639ba55308f7adc814aa4977fb3644dac593f409da
+size 458

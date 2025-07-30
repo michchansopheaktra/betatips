@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("widget","it",{move:"Fare clic e trascinare per spostare"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:845097eca44225d9329f3cc1a307d53e3d53f7d80119a99c923e4b0051e8a112
+size 233

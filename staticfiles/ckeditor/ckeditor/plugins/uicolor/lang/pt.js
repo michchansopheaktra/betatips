@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","pt",{title:"Seleção de Cor da IU",preview:"Pré-visualização ao vivo ",config:"Colar este item no seu ficheiro config.js",predefined:"Conjuntos de cor predefinidos"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a9696848dd367ee0e7506a7038037bf44cee8c79fb2b30b357b46fe009b7f9
+size 355

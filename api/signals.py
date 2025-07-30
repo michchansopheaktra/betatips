@@ -1,10 +1,3 @@
-from django.db.models.signals import post_save
-from django.dispatch import receiver
-from django.contrib.auth.models import User
-from .models import Profile
-
-@receiver(post_save, sender=User)
-def create_or_update_user_profile(sender, instance, created, **kwargs):
-    if created:
-        Profile.objects.create(user=instance)
-    instance.profile.save()
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1418d081bff3ccfef3b24e7232184d6e0837ecbe02512d799b2790975cca022
+size 353

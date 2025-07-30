@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ug",{alt:"تېكىست ئالماشتۇر",btnUpload:"مۇلازىمېتىرغا يۈكلە",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"سۈرەت",lockRatio:"نىسبەتنى قۇلۇپلا",menu:"سۈرەت خاسلىقى",pathName:"image",pathNameCaption:"caption",resetSize:"ئەسلى چوڭلۇق",resizer:"Click and drag to resize",title:"سۈرەت خاسلىقى",uploadTab:"يۈكلە",urlMissing:"سۈرەتنىڭ ئەسلى ھۆججەت ئادرېسى كەم"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a15ef5170d7600f7c5416f15d320f8ab9e8ed74003c99f00549edf237f18b0
+size 535

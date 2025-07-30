@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","vi",{alt:"Chú thích ảnh",btnUpload:"Tải lên máy chủ",captioned:"Ảnh có chú thích",captionPlaceholder:"Nhãn",infoTab:"Thông tin của ảnh",lockRatio:"Giữ nguyên tỷ lệ",menu:"Thuộc tính của ảnh",pathName:"ảnh",pathNameCaption:"chú thích",resetSize:"Kích thước gốc",resizer:"Kéo rê để thay đổi kích cỡ",title:"Thuộc tính của ảnh",uploadTab:"Tải lên",urlMissing:"Thiếu đường dẫn hình ảnh"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8926ccff62b09b64548f7836b3bf6a57593f1053ed7553b7ba08eafb3e50a74d
+size 500

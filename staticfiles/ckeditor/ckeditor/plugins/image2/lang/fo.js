@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","fo",{alt:"Alternativur tekstur",btnUpload:"Send til ambætaran",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Myndaupplýsingar",lockRatio:"Læs lutfallið",menu:"Myndaeginleikar",pathName:"image",pathNameCaption:"caption",resetSize:"Upprunastødd",resizer:"Click and drag to resize",title:"Myndaeginleikar",uploadTab:"Send til ambætaran",urlMissing:"URL til mynd manglar."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a19de89f0fe34a2428437d22e1d90b009a525d31aa46b7c9f5ddb15faed740
+size 435

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","zh",{title:"元件資訊",dialogName:"對話視窗名稱",tabName:"標籤名稱",elementId:"元件 ID",elementType:"元件類型"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:33d957af99b2d083c1b0e5a9c5764e92e3c7bba4848d2abc931e4430d485fc7d
+size 317

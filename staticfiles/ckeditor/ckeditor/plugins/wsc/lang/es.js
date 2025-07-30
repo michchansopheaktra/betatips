@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","es",{btnIgnore:"Ignorar",btnIgnoreAll:"Ignorar Todo",btnReplace:"Reemplazar",btnReplaceAll:"Reemplazar Todo",btnUndo:"Deshacer",changeTo:"Cambiar a",errorLoading:"Error cargando la aplicación del servidor: %s.",ieSpellDownload:"Módulo de Control de Ortografía no instalado.\r\n¿Desea descargarlo ahora?",manyChanges:"Control finalizado: se ha cambiado %1 palabras",noChanges:"Control finalizado: no se ha cambiado ninguna palabra",noMispell:"Control finalizado: no se encontraron errores",
-noSuggestions:"- No hay sugerencias -",notAvailable:"Lo sentimos pero el servicio no está disponible.",notInDic:"No se encuentra en el Diccionario",oneChange:"Control finalizado: se ha cambiado una palabra",progress:"Control de Ortografía en progreso...",title:"Comprobar ortografía",toolbar:"Ortografía"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:b532f3001ce0e64d65a2ce15a5dc4404534c6a64832bcc3a3d8626d0c61be1d2
+size 840

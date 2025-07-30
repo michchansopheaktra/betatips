@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","da",{alt:"Alternativ tekst",btnUpload:"Upload fil til serveren",captioned:"Tekstet billede",captionPlaceholder:"Tekst",infoTab:"Generelt",lockRatio:"Lås størrelsesforhold",menu:"Egenskaber for billede",pathName:"billede",pathNameCaption:"tekst",resetSize:"Nulstil størrelse",resizer:"Klik og træk for at ændre størrelsen",title:"Egenskaber for billede",uploadTab:"Upload",urlMissing:"Kilde på billed-URL mangler"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a76727650bcd34f19c32732fd48dfa33c9b46b93154b004e8ac9871e7c95b40e
+size 460

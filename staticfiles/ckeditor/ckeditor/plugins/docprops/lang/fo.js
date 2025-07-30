@@ -1,3 +1,3 @@
-﻿CKEDITOR.plugins.setLang("docprops","fo",{bgColor:"Bakgrundslitur",bgFixed:"Læst bakgrund (rullar ikki)",bgImage:"Leið til bakgrundsmynd (URL)",charset:"Teknsett koda",charsetASCII:"ASCII",charsetCE:"Miðeuropa",charsetCR:"Cyrilliskt",charsetCT:"Kinesiskt traditionelt (Big5)",charsetGR:"Grikst",charsetJP:"Japanskt",charsetKR:"Koreanskt",charsetOther:"Onnur teknsett koda",charsetTR:"Turkiskt",charsetUN:"Unicode (UTF-8)",charsetWE:"Vestureuropa",chooseColor:"Vel",design:"Design",docTitle:"Síðuheiti",
-docType:"Dokumentslag yvirskrift",docTypeOther:"Annað dokumentslag yvirskrift",label:"Eginleikar fyri dokument",margin:"Síðubreddar",marginBottom:"Niðast",marginLeft:"Vinstra",marginRight:"Høgra",marginTop:"Ovast",meta:"META-upplýsingar",metaAuthor:"Høvundur",metaCopyright:"Upphavsrættindi",metaDescription:"Dokumentlýsing",metaKeywords:"Dokument index lyklaorð (sundurbýtt við komma)",other:"<annað>",previewHtml:'<p>Hetta er ein <strong>royndartekstur</strong>. Tygum brúka <a href="javascript:void(0)">CKEditor</a>.</p>',
-title:"Eginleikar fyri dokument",txtColor:"Tekstlitur",xhtmlDec:"Viðfest XHTML deklaratiónir"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:5acc05478f49384e67e0a4da443cf34fac5bcdc2a003c39a8bbcb649408d970e
+size 1149

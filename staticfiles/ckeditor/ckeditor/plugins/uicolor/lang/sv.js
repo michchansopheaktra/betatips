@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","sv",{title:"UI Färgväljare",preview:"Live förhandsgranskning",config:"Klistra in den här strängen i din config.js-fil",predefined:"Fördefinierade färguppsättningar"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae633107d7122862dbfff41ec346283648f51d17b859f63f33cdc36084a0540
+size 359

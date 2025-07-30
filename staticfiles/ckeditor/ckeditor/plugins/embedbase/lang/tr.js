@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("embedbase","tr",{pathName:"medya nesnesi",title:"Gömülmüş Medya",button:"Gömülü Medya Ekle",unsupportedUrlGiven:"Belirtmiş olduğunuz URL desteklenmiyor.",unsupportedUrl:"Belirttiğiniz URL {url} gömülü medya tarafından desteklenmiyor.",fetchingFailedGiven:"Vermiş olduğunuz URL'nin içeriği alınamadı.",fetchingFailed:"{url} içeriği alınamadı.",fetchingOne:"oEmbed cevabı alınıyor...",fetchingMany:"oEmbed cevabı alınıyor, {current} / {max} tamamlandı..."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:204d59a780fecf4fbeb5723da0a73d2356bdd557a5a28c89d7f46575833590ec
+size 516

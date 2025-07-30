@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","uk",{btnIgnore:"Пропустити",btnIgnoreAll:"Пропустити все",btnReplace:"Замінити",btnReplaceAll:"Замінити все",btnUndo:"Назад",changeTo:"Замінити на",errorLoading:"Помилка завантаження : %s.",ieSpellDownload:"Модуль перевірки орфографії не встановлено. Бажаєте завантажити його зараз?",manyChanges:"Перевірку орфографії завершено: 1% слів(ова) змінено",noChanges:"Перевірку орфографії завершено: жодне слово не змінено",noMispell:"Перевірку орфографії завершено: помилок не знайдено",
-noSuggestions:"- немає варіантів -",notAvailable:"Вибачте, але сервіс наразі недоступний.",notInDic:"Немає в словнику",oneChange:"Перевірку орфографії завершено: змінено одне слово",progress:"Виконується перевірка орфографії...",title:"Перевірка орфографії",toolbar:"Перевірити орфографію"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8636de88515abc48e879fe58aed3aac5b2e76399d822d98960a93ebd69e5148
+size 1259

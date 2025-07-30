@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","sk",{alt:"Alternatívny text",btnUpload:"Odoslať to na server",captioned:"Opísaný obrázok",captionPlaceholder:"Popis",infoTab:"Informácie o obrázku",lockRatio:"Pomer zámky",menu:"Vlastnosti obrázka",pathName:"obrázok",pathNameCaption:"popis",resetSize:"Pôvodná veľkosť",resizer:"Kliknite a potiahnite pre zmenu veľkosti",title:"Vlastnosti obrázka",uploadTab:"Nahrať",urlMissing:"Chýba URL zdroja obrázka."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3219cb82989e9bbae565954de971f53f6c98887bea6be67f2d4ad2d1c2c6294
+size 464

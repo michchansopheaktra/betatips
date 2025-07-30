@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","es",{title:"Recolector de Color de Interfaz de Usuario",preview:"Vista previa en vivo",config:"Pega esta cadena en tu archivo config.js",predefined:"Conjuntos predefinidos de colores"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9b410b0e02d28a3a86d8494a982ef12bf0e09a0e89bfb3022316a5f57531fd
+size 370

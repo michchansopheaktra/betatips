@@ -1,4 +1,3 @@
-﻿/*
- Copyright (c) 2003-2023, CKSource Holding sp. z o.o. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8890f95f1cfec06a3640e40e326d42cb1145dbf8e1458354f9aba51d231512a
+size 166

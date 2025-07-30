@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","gu",{title:"પ્રાથમિક માહિતી",dialogName:"વિન્ડોનું નામ",tabName:"ટેબનું નામ",elementId:"પ્રાથમિક આઈડી",elementType:"પ્રાથમિક પ્રકાર"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f516ebc5a8651ff96c26f1339aa12295c452c18ee2197c08f4f2e49462a104b5
+size 442

@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","lt",{title:"Matematika per TeX",button:"Matematika",dialogInput:"Parašyk savo TeX čia",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"TeX žinynas",loading:"kraunasi...",pathName:"matematika"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:05de54e02d105b96955696d7be5676ff5e8bd987254b251e6dde237e10b138b0
+size 254

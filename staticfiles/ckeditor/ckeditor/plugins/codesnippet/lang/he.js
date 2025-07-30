@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","he",{button:"הכנס קטע קוד",codeContents:"תוכן קוד",emptySnippetError:"קטע קוד לא יכול להיות ריק.",language:"שפה",title:"קטע קוד",pathName:"code snippet"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ee7d4029b173d981d9d778a701a6612a08af5dd52e22815c1e55ed803b4970
+size 389

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","he",{title:"מאפייני שומר מקום",toolbar:"צור שומר מקום",name:"שם שומר מקום",invalidName:"שומר מקום לא יכול להיות ריק ולא יכול להכיל את הסימנים: [, ], <, >",pathName:"שומר מקום"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a1832187289be07840c9f568bd570b7855123957f0a47cf2ceec9c23fca4f6d
+size 453

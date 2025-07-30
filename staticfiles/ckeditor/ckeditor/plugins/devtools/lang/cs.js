@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","cs",{title:"Informace o prvku",dialogName:"Název dialogového okna",tabName:"Název karty",elementId:"ID prvku",elementType:"Typ prvku"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:018de3fae4c66bec3df2fa5c8e2786a56e3140710fb03b1a7d479d9903190a57
+size 324

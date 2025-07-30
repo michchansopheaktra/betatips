@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","fi",{btnIgnore:"Jätä huomioimatta",btnIgnoreAll:"Jätä kaikki huomioimatta",btnReplace:"Korvaa",btnReplaceAll:"Korvaa kaikki",btnUndo:"Kumoa",changeTo:"Vaihda",errorLoading:"Virhe ladattaessa oikolukupalvelua isännältä: %s.",ieSpellDownload:"Oikeinkirjoituksen tarkistusta ei ole asennettu. Haluatko ladata sen nyt?",manyChanges:"Tarkistus valmis: %1 sanaa muutettiin",noChanges:"Tarkistus valmis: Yhtään sanaa ei muutettu",noMispell:"Tarkistus valmis: Ei virheitä",noSuggestions:"Ei ehdotuksia",
-notAvailable:"Valitettavasti oikoluku ei ole käytössä tällä hetkellä.",notInDic:"Ei sanakirjassa",oneChange:"Tarkistus valmis: Yksi sana muutettiin",progress:"Tarkistus käynnissä...",title:"Oikoluku",toolbar:"Tarkista oikeinkirjoitus"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31f3ce7f0dee77cf778b9042142a354b18edb46de309d5f5276416c46a66684
+size 786

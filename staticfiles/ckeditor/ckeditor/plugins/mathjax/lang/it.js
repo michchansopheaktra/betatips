@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","it",{title:"Formule in TeX",button:"Formule",dialogInput:"Scrivere qui il proprio TeX",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"Documentazione TeX",loading:"caricamento…",pathName:"formula"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3079c628612b5cf52ab081acebe14a8ebf1edbfe20357043279918dd2ed6f0b4
+size 258

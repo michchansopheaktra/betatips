@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","no",{title:"Egenskaper for plassholder",toolbar:"Opprett plassholder",name:"Navn på plassholder",invalidName:"Plassholderen kan ikke være tom, og kan ikke inneholde følgende tegn: [, ], <, >",pathName:"plassholder"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c5365978a40200e3f16c56d476224cd723a1001d12fa069d0854d5fa7c9bdb0
+size 408

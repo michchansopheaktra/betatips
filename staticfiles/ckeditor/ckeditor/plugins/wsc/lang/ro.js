@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","ro",{btnIgnore:"Ignoră",btnIgnoreAll:"Ignoră toate",btnReplace:"Înlocuieşte",btnReplaceAll:"Înlocuieşte tot",btnUndo:"Starea anterioară (undo)",changeTo:"Schimbă în",errorLoading:"Eroare în lansarea aplicației service host %s.",ieSpellDownload:"Unealta pentru verificat textul (Spell checker) neinstalată. Doriţi să o descărcaţi acum?",manyChanges:"Verificarea textului terminată: 1% cuvinte modificate",noChanges:"Verificarea textului terminată: Niciun cuvânt modificat",
-noMispell:"Verificarea textului terminată: Nicio greşeală găsită",noSuggestions:"- Fără sugestii -",notAvailable:"Scuzați, dar serviciul nu este disponibil momentan.",notInDic:"Nu e în dicţionar",oneChange:"Verificarea textului terminată: Un cuvânt modificat",progress:"Verificarea textului în desfăşurare...",title:"Spell Checker",toolbar:"Verifică scrierea textului"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d7fe786fb69f0085e89df75b74bfab3ce6161e7977a65cd9d6cabfa5ee77b5
+size 914

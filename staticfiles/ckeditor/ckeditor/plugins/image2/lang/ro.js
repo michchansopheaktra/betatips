@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","ro",{alt:"Text alternativ",btnUpload:"Trimite la server",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Informaţii despre imagine",lockRatio:"Păstrează proporţiile",menu:"Proprietăţile imaginii",pathName:"image",pathNameCaption:"caption",resetSize:"Resetează mărimea",resizer:"Click and drag to resize",title:"Proprietăţile imaginii",uploadTab:"Încarcă",urlMissing:"Sursa URL a imaginii lipsește."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:16c08778cd0a14501791c603a25255d4459635ebcb35f2413777673c9a414c9a
+size 470

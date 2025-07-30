@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","it",{title:"Proprietà segnaposto",toolbar:"Crea segnaposto",name:"Nome segnaposto",invalidName:"Il segnaposto non può essere vuoto e non può contenere nessuno dei seguenti caratteri: [, ], <, >",pathName:"segnaposto"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4945f967e6065dc077980b5fa60f680c3f37546c2d87321d56b34d368c34f70
+size 410

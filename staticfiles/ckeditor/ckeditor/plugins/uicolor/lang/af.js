@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","af",{title:"UI kleur keuse",preview:"Voorskou",config:"Voeg hierdie in jou config.js lêr in",predefined:"Voordefinieerte kleur keuses"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:dff0f577be71f629dd3e430947447b226fc80673b05b650016be2f2294c9a1de
+size 322

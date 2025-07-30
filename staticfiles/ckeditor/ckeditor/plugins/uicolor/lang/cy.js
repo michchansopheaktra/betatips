@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","cy",{title:"Dewisydd Lliwiau'r UI",preview:"Rhagolwg Byw",config:"Gludwch y llinyn hwn i'ch ffeil config.js",predefined:"Setiau lliw wedi'u cyn-ddiffinio"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:a806e0927d9f04fc32e1a7d19d439c9a5c503dbe198f01f120750a1b93bf3e3c
+size 341

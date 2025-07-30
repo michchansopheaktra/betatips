@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","vi",{title:"Thông tin thành ph",dialogName:"Tên hộp tho",tabName:"Tên th",elementId:"Mã thành ph",elementType:"Loại thành ph"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d475135f1e1b46403dd4cf65d990b58ef70dabb69558934c713dfaa8c3214bd5
+size 324

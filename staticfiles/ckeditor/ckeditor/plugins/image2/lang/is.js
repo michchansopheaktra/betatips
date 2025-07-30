@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","is",{alt:"Baklægur texti",btnUpload:"Hlaða upp",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Almennt",lockRatio:"Festa stærðarhlutfall",menu:"Eigindi myndar",pathName:"image",pathNameCaption:"caption",resetSize:"Reikna stærð",resizer:"Click and drag to resize",title:"Eigindi myndar",uploadTab:"Senda upp",urlMissing:"Image source URL is missing."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bebb0a078515debe6a4dd213a015f55bcf089cc7af75621383296e31b5f89c5
+size 415

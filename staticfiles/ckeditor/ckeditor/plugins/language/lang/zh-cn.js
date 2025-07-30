@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("language","zh-cn",{button:"设置语言",remove:"移除语言"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e502ee9c78161b4721914c671c2cead70076f0e5b93cafc6d04db4943e2f6f
+size 239

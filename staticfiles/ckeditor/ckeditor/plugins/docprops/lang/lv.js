@@ -1,3 +1,3 @@
-﻿CKEDITOR.plugins.setLang("docprops","lv",{bgColor:"Fona krāsa",bgFixed:"Fona attēls ir fiksēts",bgImage:"Fona attēla hipersaite",charset:"Simbolu kodējums",charsetASCII:"ASCII",charsetCE:"Centrāleiropas",charsetCR:"Kirilica",charsetCT:"Ķīniešu tradicionālā (Big5)",charsetGR:"Grieķu",charsetJP:"Japāņu",charsetKR:"Korejiešu",charsetOther:"Cits simbolu kodējums",charsetTR:"Turku",charsetUN:"Unikods (UTF-8)",charsetWE:"Rietumeiropas",chooseColor:"Izvēlēties",design:"Dizains",docTitle:"Dokumenta virsraksts <Title>",
-docType:"Dokumenta tips",docTypeOther:"Cits dokumenta tips",label:"Dokumenta īpašības",margin:"Lapas robežas",marginBottom:"Apakšā",marginLeft:"Pa kreisi",marginRight:"Pa labi",marginTop:"Augšā",meta:"META dati",metaAuthor:"Autors",metaCopyright:"Autortiesības",metaDescription:"Dokumenta apraksts",metaKeywords:"Dokumentu aprakstoši atslēgvārdi (atdalīti ar komatu)",other:"<cits>",previewHtml:'<p>Šis ir <strong>parauga teksts</strong>. Jūs izmantojiet <a href="javascript:void(0)">CKEditor</a>.</p>',
-title:"Dokumenta īpašības",txtColor:"Teksta krāsa",xhtmlDec:"Ietvert XHTML deklarācijas"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73018d475c8aa78b1c08c45e0b9d6a3a3b0409072fe0ace8eeb8f7cc15230ee
+size 1153

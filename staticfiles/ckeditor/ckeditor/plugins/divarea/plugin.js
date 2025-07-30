@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.add("divarea",{afterInit:function(a){a.addMode("wysiwyg",function(c){var b=CKEDITOR.dom.element.createFromHtml('<div class="cke_wysiwyg_div cke_reset" hidefocus="true"></div>');a.ui.space("contents").append(b);b=a.editable(b);b.detach=CKEDITOR.tools.override(b.detach,function(a){return function(){a.apply(this,arguments);this.remove()}});a.setData(a.getData(1),c);a.fire("contentDom")})}});
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f443f6cdc14d6e383b3ab1855548b29f3676cd55519985d67df46367ae40b9c
+size 556

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","vi",{button:"Chèn đoạn mã",codeContents:"Nội dung mã",emptySnippetError:"Một đoạn mã không thể để trống.",language:"Ngôn ngữ",title:"Đoạn mã",pathName:"mã dính"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6a91480a41a77802b3b431f68f9bfc68f478ea3462fa56d8e2394881bf5716
+size 382

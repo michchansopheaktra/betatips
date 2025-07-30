@@ -1,2 +1,3 @@
-﻿CKEDITOR.plugins.setLang("wsc","tr",{btnIgnore:"Yoksay",btnIgnoreAll:"Tümünü Yoksay",btnReplace:"Değiştir",btnReplaceAll:"Tümünü Değiştir",btnUndo:"Geri Al",changeTo:"Şuna değiştir:",errorLoading:"Uygulamada yüklerken hata oluştu: %s.",ieSpellDownload:"Yazım denetimi yüklenmemiş. Şimdi yüklemek ister misiniz?",manyChanges:"Yazım denetimi tamamlandı: %1 kelime değiştirildi",noChanges:"Yazım denetimi tamamlandı: Hiçbir kelime değiştirilmedi",noMispell:"Yazım denetimi tamamlandı: Yanlış yazıma rastlanmadı",
-noSuggestions:"- Öneri Yok -",notAvailable:"Üzügünüz, bu servis şuanda hizmet dışıdır.",notInDic:"Sözlükte Yok",oneChange:"Yazım denetimi tamamlandı: Bir kelime değiştirildi",progress:"Yazım denetimi işlemde...",title:"Yazımı Denetle",toolbar:"Yazım Denetimi"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:d50deea4414ab0c32e439411efe6848c51b84cd5697e8613a8b8934e67f7ef91
+size 831

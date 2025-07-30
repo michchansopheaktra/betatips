@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","tr",{button:"Kod parçacığı ekle",codeContents:"Kod",emptySnippetError:"Kod parçacığı boş bırakılamaz",language:"Dil",title:"Kod parçacığı",pathName:"kod parçacığı"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4225e63204be000412b8c48873eb36583652eeb5c67c9923a1a945eb3db3ee
+size 373

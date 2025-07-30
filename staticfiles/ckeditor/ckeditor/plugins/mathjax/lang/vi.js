@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("mathjax","vi",{title:"Toán học bằng TeX",button:"Toán",dialogInput:"Nhập mã TeX ở đây",docUrl:"http://en.wikibooks.org/wiki/LaTeX/Mathematics",docLabel:"Tài liệu TeX",loading:"đang nạp...",pathName:"toán"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:041f1bfa5c2dc08d9603921e5688cada1f0aff26b95e670ac3b5089a14930f22
+size 256

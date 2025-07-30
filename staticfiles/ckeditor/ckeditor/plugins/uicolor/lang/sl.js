@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","sl",{title:"UI Izbiralec Barve",preview:"Živi predogled",config:"Prilepite ta niz v vašo config.js datoteko",predefined:"Vnaprej določeni barvni kompleti"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:942cb26c6b6870ff0f7192b8e3385bb3ea2d65466abfb7210dfb27809b7378dc
+size 344

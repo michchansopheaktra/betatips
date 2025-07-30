@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","ru",{button:"Вставить сниппет",codeContents:"Содержимое кода",emptySnippetError:"Сниппет не может быть пустым",language:"Язык",title:"Сниппет",pathName:"сниппет"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:1912c289274e193884e09b4e1f5e2259dfb368ba3e443bed33cf954d64d26a42
+size 423

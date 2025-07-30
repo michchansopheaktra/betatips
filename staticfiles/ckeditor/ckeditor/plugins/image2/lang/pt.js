@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","pt",{alt:"Texto Alternativo",btnUpload:"Enviar para o Servidor",captioned:"Imagem legendada",captionPlaceholder:"Legenda",infoTab:"Informação da Imagem",lockRatio:"Proporcional",menu:"Propriedades da Imagem",pathName:"imagem",pathNameCaption:"legenda",resetSize:"Tamanho Original",resizer:"Clique e arraste para redimensionar",title:"Propriedades da Imagem",uploadTab:"Enviar",urlMissing:"O URL da fonte da imagem está em falta."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:87e20db365941f68ff4756f94e1cbc7f8e604f74c373b3ad0c0bc1438b658f7e
+size 473

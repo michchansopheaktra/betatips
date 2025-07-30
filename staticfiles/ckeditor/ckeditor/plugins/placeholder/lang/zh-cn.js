@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("placeholder","zh-cn",{title:"占位符属性",toolbar:"占位符",name:"占位符名称",invalidName:"占位符名称不能为空，并且不能包含以下字符：[、]、<、>",pathName:"占位符"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d5d448ab9c02acc4ff5a9b7b5e5b3bd2b7e82ccc07db7432199bfd7031767f5
+size 377

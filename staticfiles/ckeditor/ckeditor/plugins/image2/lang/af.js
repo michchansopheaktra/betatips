@@ -1,1 +1,3 @@
-﻿CKEDITOR.plugins.setLang("image2","af",{alt:"Alternatiewe teks",btnUpload:"Stuur na bediener",captioned:"Captioned image",captionPlaceholder:"Caption",infoTab:"Afbeelding informasie",lockRatio:"Vaste proporsie",menu:"Afbeelding eienskappe",pathName:"image",pathNameCaption:"caption",resetSize:"Herstel grootte",resizer:"Click and drag to resize",title:"Afbeelding eienskappe",uploadTab:"Oplaai",urlMissing:"Die URL na die afbeelding ontbreek."});
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30ddb025f2f7d7eeb2d57f9da92d9cf19c42df6af7ceb3f3352d55509609f9c
+size 449

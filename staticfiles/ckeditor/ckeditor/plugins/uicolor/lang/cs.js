@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","cs",{title:"Výběr barvy rozhraní",preview:"Živý náhled",config:"Vložte tento řetězec do vašeho souboru config.js",predefined:"Přednastavené sady barev"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d8c426a4e06af582c1283989e3758a5ba0cd4fe9e00950c06993c78fb450cd2
+size 350

@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("uicolor","fi",{title:"Käyttöliittymän väripaletti",preview:"Esikatsele heti",config:"Liitä tämä merkkijono config.js tiedostoosi",predefined:"Esimääritellyt värijoukot"});
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7f1c6130e3baf0935958678b5dcd6c8594b9a0c049f2743cd5d38082748cd6d
+size 355
